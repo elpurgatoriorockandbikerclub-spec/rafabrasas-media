@@ -2738,5 +2738,10 @@
     "path": "media/news/meshuggah-2027/editorial.png",
     "bytes": 3259818,
     "sha256": "3077dffd5a6fafbdd120962145987fcc0d7b1df94f6de5a3b017edf6984f9c57"
+  },
+  {
+    "path": "media/news/iron-maiden-graphic-album-2027.jpg",
+    "bytes": 561422,
+    "sha256": "0c850891a0e0375f48f46440a98300dac37a532f97a051b9a83419287cf58d63"
   }
 ]
