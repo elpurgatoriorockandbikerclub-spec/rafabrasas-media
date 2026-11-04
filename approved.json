@@ -1,0 +1,2742 @@
+[
+  {
+    "path": "brand/rafabrasas-skull.png",
+    "bytes": 1489164,
+    "sha256": "c48818a193257825ac2f88caea0809866bb77c5765f534453dae6b849b0c8033"
+  },
+  {
+    "path": "media/agenda/alcatraz-open-air-2026-cartel.jpg",
+    "bytes": 509293,
+    "sha256": "c5e4e2c1f386539e8e9a7713911eff4796f12dbf2e1e03e53aa6f4b1dbce7b16"
+  },
+  {
+    "path": "media/agenda/astray-valley-gira-enero-2027.jpg",
+    "bytes": 85649,
+    "sha256": "5eb18380c26c9895ac8a727bb7722975c6948ea045db2f49834d49c66d91460d"
+  },
+  {
+    "path": "media/agenda/atalaya-rock-2026.jpg",
+    "bytes": 137091,
+    "sha256": "13571f3a674daf0882ca7a53f0a39210f3e68d2b70e9d0ce0f949dcecf13dae6"
+  },
+  {
+    "path": "media/agenda/avanti-rock-festival-2026.webp",
+    "bytes": 64654,
+    "sha256": "438543aab5fdac577bea034c44213d4977b69087445911abf0a1dcc0a1a46e81"
+  },
+  {
+    "path": "media/agenda/azkena-rock-festival-2026.jpg",
+    "bytes": 794200,
+    "sha256": "2a820aefb99b85df2d36cfbc2d0fc1fed122cb1fa465a1d330f0ff8c5e5ca6d5"
+  },
+  {
+    "path": "media/agenda/barcelona-rock-fest-2026.jpg",
+    "bytes": 83870,
+    "sha256": "e078de68723bce354da10170d9d4d2437298cb7b00c942cfae1458a711f00ac2"
+  },
+  {
+    "path": "media/agenda/barnanroll-the-interrupters-2027.jpg",
+    "bytes": 488089,
+    "sha256": "a6ae0dd0cc8ac9043d6b5c79090b59c1c9718605713e4340dd0375f8c783fc0d"
+  },
+  {
+    "path": "media/agenda/be-prog-2026-horarios-completos.jpg",
+    "bytes": 154703,
+    "sha256": "bceac0229643bb3605b601a5b08879c2e0a176abd132b95e38f46d4f85656dd9"
+  },
+  {
+    "path": "media/agenda/bilbonroll-the-interrupters-2027.jpg",
+    "bytes": 488089,
+    "sha256": "a6ae0dd0cc8ac9043d6b5c79090b59c1c9718605713e4340dd0375f8c783fc0d"
+  },
+  {
+    "path": "media/agenda/black-label-society-thundermother-2026.jpg",
+    "bytes": 154222,
+    "sha256": "8d79fb99ce882566dea352efba30be9725ca1fbe13b07f36e58c7c2e9acb347b"
+  },
+  {
+    "path": "media/agenda/bloodhunter-death-legacy-granada.jpg",
+    "bytes": 415349,
+    "sha256": "78ac74fff72d0c2e4309508de3d3f9646c42dabbc0045ea1a256bc3f24a80af9"
+  },
+  {
+    "path": "media/agenda/bloodhunter-death-legacy-madrid.jpg",
+    "bytes": 415349,
+    "sha256": "78ac74fff72d0c2e4309508de3d3f9646c42dabbc0045ea1a256bc3f24a80af9"
+  },
+  {
+    "path": "media/agenda/bloodhunter-death-legacy-oviedo.jpg",
+    "bytes": 415349,
+    "sha256": "78ac74fff72d0c2e4309508de3d3f9646c42dabbc0045ea1a256bc3f24a80af9"
+  },
+  {
+    "path": "media/agenda/bloodhunter-death-legacy-vigo.jpg",
+    "bytes": 415349,
+    "sha256": "78ac74fff72d0c2e4309508de3d3f9646c42dabbc0045ea1a256bc3f24a80af9"
+  },
+  {
+    "path": "media/agenda/bloodhunter-death-legacy-zaragoza.jpg",
+    "bytes": 415349,
+    "sha256": "78ac74fff72d0c2e4309508de3d3f9646c42dabbc0045ea1a256bc3f24a80af9"
+  },
+  {
+    "path": "media/agenda/brutal-assault-2026.webp",
+    "bytes": 1547162,
+    "sha256": "a325d11c4e34680f9c4c247c7c746694c8681783a9b28c625653cf2eeb212468"
+  },
+  {
+    "path": "media/agenda/choorock-2026-horarios.jpg",
+    "bytes": 261699,
+    "sha256": "b0281de0b1ac6ecff3f3d985deb7d737e7228ff26654db481878290ee60584ea"
+  },
+  {
+    "path": "media/agenda/cianuro-electrik-eel-vinodium-2026.jpg",
+    "bytes": 19517,
+    "sha256": "4e3f763fe89e8e28fd9b7c45796c402972e5d05ebe37115b96834c59a2d9ad7f"
+  },
+  {
+    "path": "media/agenda/cianuro-electrik-eel-vinodium-2026.webp",
+    "bytes": 389132,
+    "sha256": "93e1ecfcd0b4adc01672af711aad79afa8db96bc35d6f1dbc772108765a881b2"
+  },
+  {
+    "path": "media/agenda/dizzel-marco-mendoza-es-gremi-2026.jpg",
+    "bytes": 429358,
+    "sha256": "542d4c7de36d566e140320e6d0e756b14d6ea99167e80a3dacaaded911ae158f"
+  },
+  {
+    "path": "media/agenda/eleine-barcelona-2026.jpg",
+    "bytes": 190019,
+    "sha256": "9997cafbc947fcd3757d0c15d0e294b2127af62663dd299489b3613b26351300"
+  },
+  {
+    "path": "media/agenda/eluveitie-pain-wolfheart-2026.jpg",
+    "bytes": 240518,
+    "sha256": "85fb7980d0b8f84bafae102be8c7969556f017ee770a1dcbb0c5e4dc135e0c60"
+  },
+  {
+    "path": "media/agenda/enslaved-solstafir-gaahls-wyrd-barcelona-2027.jpg",
+    "bytes": 323754,
+    "sha256": "5880d6bec8704896df54a4cddddd1692ef72fc71cbff4c1798b1825145566c8b"
+  },
+  {
+    "path": "media/agenda/ginetarock-xviii-2026.jpg",
+    "bytes": 662951,
+    "sha256": "c7cbd78c676fb1ba4bc1a7b01cc9e7ac3ae3e5d3600801d10cb369d6d19662eb"
+  },
+  {
+    "path": "media/agenda/high-on-fire-europe-2026.jpg",
+    "bytes": 102465,
+    "sha256": "c9080ec4d47a96989cdd4113e21fa621e539a82a695548875a1b2e77b1d69c24"
+  },
+  {
+    "path": "media/agenda/hitten-spain-october-2026.jpg",
+    "bytes": 176720,
+    "sha256": "f08a8c416495db968f64cf3c6a4743e8f282703f331ab642f96f8cff6299af76"
+  },
+  {
+    "path": "media/agenda/integrity-tour-2026.jpg",
+    "bytes": 288574,
+    "sha256": "78f2bd6515c883a8a51a8f87df2253e12b69e261664da48c431744c74972dd1d"
+  },
+  {
+    "path": "media/agenda/jero-ramiro-madrid-2027.jpg",
+    "bytes": 50446,
+    "sha256": "6f3f6112b4b37c9471a4009af052251b0e89399bdb8bc36e522afece203467ba"
+  },
+  {
+    "path": "media/agenda/joe-bonamassa-2026.jpg",
+    "bytes": 101379,
+    "sha256": "95f0ff7799f1dae0aad62301a3b3daf36053dbd2b1be34cb3264fea4d1366aba"
+  },
+  {
+    "path": "media/agenda/joe-bonamassa-2026.png",
+    "bytes": 21902,
+    "sha256": "b4b3e0c50c6a2a38705412c83d9f4a9259baeed7919468f9f1719270a2985111"
+  },
+  {
+    "path": "media/agenda/leyendas-del-rock-2027.jpg",
+    "bytes": 130055,
+    "sha256": "119f6609c57580d740caab804ddf19c753a4c1e2f778609caac47d17b4f7c4b6"
+  },
+  {
+    "path": "media/agenda/lion-rock-fest-2026.jpg",
+    "bytes": 1057985,
+    "sha256": "1bbb5f9b4708337137f25c5e7611ab5987494ef3a6943454ceaf9bdd89396124"
+  },
+  {
+    "path": "media/agenda/megadeth-black-label-society-testament-2027.jpg",
+    "bytes": 1663200,
+    "sha256": "1805592283da335ab5e7b624a013b6d119927793429c75c9a93950c9cafc3978"
+  },
+  {
+    "path": "media/agenda/ministry-2027/barcelona.jpg",
+    "bytes": 439186,
+    "sha256": "876c498ce0c5032b95905a40f757b07434a78280b4050e1bd529a1621e096e6f"
+  },
+  {
+    "path": "media/agenda/ministry-2027/madrid.jpg",
+    "bytes": 439186,
+    "sha256": "876c498ce0c5032b95905a40f757b07434a78280b4050e1bd529a1621e096e6f"
+  },
+  {
+    "path": "media/agenda/motocultor-festival-2026.webp",
+    "bytes": 322480,
+    "sha256": "f26a128c65ad8ba114a2916befdb616992df19c65bff72482b43b130058001cd"
+  },
+  {
+    "path": "media/agenda/nefarious-madrid-2026.png",
+    "bytes": 295527,
+    "sha256": "99f88129141464708f0aa51c25969a33a4cc0c6c036b72a74d67d388bec64a04"
+  },
+  {
+    "path": "media/agenda/nefarious-portugalete-2026.png",
+    "bytes": 295522,
+    "sha256": "768be677e67e1405b36cd0add33454f461f650ecb442e7a5dcba2e191e82bdc3"
+  },
+  {
+    "path": "media/agenda/nefarious-salamanca-2026.png",
+    "bytes": 295810,
+    "sha256": "48123044c33ff5fac36122a8d7ef6ba38d9e292fa3e6ddcd189367b1d4c999f0"
+  },
+  {
+    "path": "media/agenda/nefarious-zaragoza-2026.png",
+    "bytes": 294710,
+    "sha256": "1358395ac3c1313c5855169b9ac17811d53ce3ff8384254123b3c9829a68f64f"
+  },
+  {
+    "path": "media/agenda/oasis-live-27.jpg",
+    "bytes": 100215,
+    "sha256": "3bcbe7fa4140631181b7c955e35a6898a6f156434809031c964606f7d111de57"
+  },
+  {
+    "path": "media/agenda/permadeath-sala-riff-armilla-2026.jpg",
+    "bytes": 225436,
+    "sha256": "1c35467e049553b7a1165b3173c4b571b2343c3306e01162e3c271274e046916"
+  },
+  {
+    "path": "media/agenda/piorno-rock-xix-2026.jpg",
+    "bytes": 174855,
+    "sha256": "fc31af1467226d01cf0dc1e5d2fb35207192bc8e1c22898b481955f770d6f06a"
+  },
+  {
+    "path": "media/agenda/primal-fear-domination-tour-2026.jpg",
+    "bytes": 71419,
+    "sha256": "20c0e9fb40a8ff6791de2e04f1466815b557960b90404ee8a253e531eea89e4c"
+  },
+  {
+    "path": "media/agenda/ram-spain-tour-2026.jpg",
+    "bytes": 91526,
+    "sha256": "084846824d47f4148228ee6ec9357eff734aa79703d2d97c5ca6477300240c64"
+  },
+  {
+    "path": "media/agenda/rebirth-fest-discerptus-vertebrae-2026.jpg",
+    "bytes": 71270,
+    "sha256": "7f25afcc61321639847d698d3b26265e8cbb0d75dcf6d1d0b1a89c0e753bebff"
+  },
+  {
+    "path": "media/agenda/resurrection-fest-2026.jpg",
+    "bytes": 1135489,
+    "sha256": "a07910b608dbd6a06b960dd813f153a67eda4d6472033e0498a4a03be72a3c03"
+  },
+  {
+    "path": "media/agenda/resurrection-fest-2027-built-to-last.png",
+    "bytes": 212841,
+    "sha256": "a4fe7a10ad693446a6a2781f2daef4907ac67b861f046eb43fdf43c15356a52e"
+  },
+  {
+    "path": "media/agenda/rock-imperium-2026.jpg",
+    "bytes": 65157,
+    "sha256": "96b0dd3b7a9c43042b3e8d80e48da5ff10f6dd4b2a65fb4b6cd8a61eb3350402"
+  },
+  {
+    "path": "media/agenda/saratoga-carmona-2026.jpg",
+    "bytes": 86985,
+    "sha256": "01b3f1df7b854140a1ae655e7d81cb68874befa63b5260e79c9fb554ccb26824"
+  },
+  {
+    "path": "media/agenda/saratoga-granada-2026.jpg",
+    "bytes": 86985,
+    "sha256": "01b3f1df7b854140a1ae655e7d81cb68874befa63b5260e79c9fb554ccb26824"
+  },
+  {
+    "path": "media/agenda/saratoga-leo-jimenez-pamplona-2027.jpg",
+    "bytes": 86985,
+    "sha256": "01b3f1df7b854140a1ae655e7d81cb68874befa63b5260e79c9fb554ccb26824"
+  },
+  {
+    "path": "media/agenda/saratoga-valencia-2026.jpg",
+    "bytes": 86985,
+    "sha256": "01b3f1df7b854140a1ae655e7d81cb68874befa63b5260e79c9fb554ccb26824"
+  },
+  {
+    "path": "media/agenda/saratoga-valladolid-2026.jpg",
+    "bytes": 86985,
+    "sha256": "01b3f1df7b854140a1ae655e7d81cb68874befa63b5260e79c9fb554ccb26824"
+  },
+  {
+    "path": "media/agenda/shakra-barcelona-2026.jpg",
+    "bytes": 168272,
+    "sha256": "82114464dda53a930e26330ac5baef227815e73733d170b8a74993712d0baee5"
+  },
+  {
+    "path": "media/agenda/shakra-madrid-2026.jpg",
+    "bytes": 168272,
+    "sha256": "82114464dda53a930e26330ac5baef227815e73733d170b8a74993712d0baee5"
+  },
+  {
+    "path": "media/agenda/shakra-vitoria-2026.jpg",
+    "bytes": 168272,
+    "sha256": "82114464dda53a930e26330ac5baef227815e73733d170b8a74993712d0baee5"
+  },
+  {
+    "path": "media/agenda/shakra-zamora-2026.jpg",
+    "bytes": 168272,
+    "sha256": "82114464dda53a930e26330ac5baef227815e73733d170b8a74993712d0baee5"
+  },
+  {
+    "path": "media/agenda/sun-and-thunder-2026.jpg",
+    "bytes": 106411,
+    "sha256": "606aa6df5663263b2f44cce22a2304f2f1d741382340766551ed24cae2d94773"
+  },
+  {
+    "path": "media/agenda/talco-freek-2027.jpg",
+    "bytes": 2237651,
+    "sha256": "fa0b11296862994a27a09cf3d6f3cc3e0f11878d2642c8dc342223a25aa832a2"
+  },
+  {
+    "path": "media/agenda/the-buyakers-mahounaneos-ciudad-real-2026.jpg",
+    "bytes": 130444,
+    "sha256": "11bc642b0ddb9dab0f104d9788753b55aeb83a0a33f956a35f7468b4e24206db"
+  },
+  {
+    "path": "media/agenda/the-interrupters-a-coruna-2027.jpg",
+    "bytes": 488089,
+    "sha256": "a6ae0dd0cc8ac9043d6b5c79090b59c1c9718605713e4340dd0375f8c783fc0d"
+  },
+  {
+    "path": "media/agenda/the-interrupters-madrid-2027.jpg",
+    "bytes": 488089,
+    "sha256": "a6ae0dd0cc8ac9043d6b5c79090b59c1c9718605713e4340dd0375f8c783fc0d"
+  },
+  {
+    "path": "media/agenda/the-pineapple-thief-spain-2027.jpg",
+    "bytes": 45069,
+    "sha256": "195ebfd96e1469c2fdd8ea87383115842eaf2712e891dd14759ccf71ac3424c0"
+  },
+  {
+    "path": "media/agenda/the-warning-spain-2027.webp",
+    "bytes": 186356,
+    "sha256": "3958983a930987d76fea6e550cbd091e422172a54447d31b3f2b79ce0cac1c0c"
+  },
+  {
+    "path": "media/agenda/valdorrock-2026.jpg",
+    "bytes": 58781,
+    "sha256": "10658087922f44079e826079ba4676e4a9e74bdeb01e5a14e2ea7783232176bf"
+  },
+  {
+    "path": "media/agenda/wacken-open-air-2027.jpg",
+    "bytes": 430606,
+    "sha256": "3fdb0540554b3d47c5d4a80452dc543bec9ca041a9c0db3daf301e27ac4a779a"
+  },
+  {
+    "path": "media/agenda/z-live-2026.jpg",
+    "bytes": 1266227,
+    "sha256": "8ad8c09381540c759de0faa6db7aa4ec02ae84b29bc996aabb76c37d58073bdc"
+  },
+  {
+    "path": "media/agenda/z-live-2027.jpg",
+    "bytes": 2450370,
+    "sha256": "ccb6bd08547bc3f1c26103b20beae9d8919f5910a0077f1d0f6d4f83a33471ef"
+  },
+  {
+    "path": "media/barbacoa/chuletas-cafe-ancho-pina.webp",
+    "bytes": 268044,
+    "sha256": "d8122bb0d50f130990b7fb709c914fc335959cce9eead8998b1af0082ae5e1f7"
+  },
+  {
+    "path": "media/barbacoa/cordero-harissa-yogur-berenjenas.jpg",
+    "bytes": 411424,
+    "sha256": "250189a93541976aa9103ab8735e52bb9d0f2603d51c6d5886ed7b0a57bb38cb"
+  },
+  {
+    "path": "media/barbacoa/costillas-halloween-2026.jpg",
+    "bytes": 632436,
+    "sha256": "4bc8504f6d37e20e57deb65a751f78cc8d2f5f50eed2871826b32a135c71f80f"
+  },
+  {
+    "path": "media/barbacoa/entrana-chimichurri-groove-metal-2026.webp",
+    "bytes": 273834,
+    "sha256": "7a53a6b1275d21ed5f5f27794c78391cae34ab99df0ff81de6147b8b737c58bf"
+  },
+  {
+    "path": "media/barbacoa/koftas-cordero-metal-oriental-2026.webp",
+    "bytes": 255630,
+    "sha256": "e49990df8020d3dccf236570e513f25516e8f85865e2fde4bae3d915346fb618"
+  },
+  {
+    "path": "media/barbacoa/langostinos-hierro-mojo-verde.webp",
+    "bytes": 317006,
+    "sha256": "3eb58f55faf1aa228d8d7156bbc3a4115b69fd044efaef4ea42b99072de78c74"
+  },
+  {
+    "path": "media/barbacoa/lomo-cerdo-membrillo-stoner-2026.webp",
+    "bytes": 176188,
+    "sha256": "75b8fd09c0b50231a175e1bd7a77e0b1b6ec1aa0f4bf1370b902d5336a69a750"
+  },
+  {
+    "path": "media/barbacoa/lubinas-hinojo-gotico-2026.webp",
+    "bytes": 298758,
+    "sha256": "8902180cbdf0547a1772b7785b08a2434ae4ab59bebc9544a64f0ce42cc4945d"
+  },
+  {
+    "path": "media/barbacoa/muslos-pavo-naranja-chipotle-metal-2026.webp",
+    "bytes": 238512,
+    "sha256": "50bdceb1bfd3b57d59219003caa20c8bc111fddbec03503b0cac0ece0ddac660"
+  },
+  {
+    "path": "media/barbacoa/pato-ahumado-farro-verduras.jpg",
+    "bytes": 270541,
+    "sha256": "70ed4f2dddcc924ce39703076aa8721d17270e61baded9604a37f62c40612a26"
+  },
+  {
+    "path": "media/barbacoa/pez-espada-romesco-folk-metal-2026.webp",
+    "bytes": 212538,
+    "sha256": "256ed3f39bdf49f22466b01528dbb54244c8c8f78e109694491e5f0f2a9bf3c9"
+  },
+  {
+    "path": "media/barbacoa/picanha-chimichurri-negro.png",
+    "bytes": 2190647,
+    "sha256": "c03b093a01d28986de12e11bf8ad6a636777bfc2d72bf598dcf41ed23a83e8d4"
+  },
+  {
+    "path": "media/barbacoa/pollo-piri-piri-nwobhm-2026.webp",
+    "bytes": 251858,
+    "sha256": "2a5b20540359d220af3496992768625603b0fa28fd021900b7f6aceaf89540b6"
+  },
+  {
+    "path": "media/barbacoa/pulpo-brasa-papas-mojo-rojo-metal-2026.webp",
+    "bytes": 281162,
+    "sha256": "87de69fa388aee653072bcd36051846202ab4e02d0b9f7525bd63581d2be906b"
+  },
+  {
+    "path": "media/barbacoa/salmon-mostaza-humo.png",
+    "bytes": 2835457,
+    "sha256": "2451429735c829a69a244c7c1c831eea3c6d8dd7ef89d18daecde983a9f20beb"
+  },
+  {
+    "path": "media/barbacoa/ternera-satay-thrash-2026.webp",
+    "bytes": 311772,
+    "sha256": "680fa7347d11008dd32bba834a52bcde25cbd500d1293daac4424c978fc64910"
+  },
+  {
+    "path": "media/barbacoa-contramuslos-cajun.png",
+    "bytes": 2930558,
+    "sha256": "ace54b3a3485ed856b883f0d7192934be823262d193083534219c54a017a8459"
+  },
+  {
+    "path": "media/barbacoa-costillas-cerveza-negra.png",
+    "bytes": 2476258,
+    "sha256": "c6b73672cea89bcc1bbd1f7ecc9c6971391468e789731d0a193566a98a1b2bc4"
+  },
+  {
+    "path": "media/brasero/aaron-stainthorpe-my-dying-bride-2026.jpg",
+    "bytes": 13979,
+    "sha256": "693776d20aad5fb541ef519b2e29a1a991274dfba1b74022a16a1dae6890cea9"
+  },
+  {
+    "path": "media/brasero/abbath-saarihelvetti-abandono-2026.png",
+    "bytes": 1305238,
+    "sha256": "e74393f8aa8df9073be79c84a0b1857a13a0523c36eb2ba2ba2a01fc29d36642"
+  },
+  {
+    "path": "media/brasero/adrian-vandenberg-infeccion-2026.jpg",
+    "bytes": 32855,
+    "sha256": "418b93f343e0dd912894b82341ec1c8d41d4a0596a36fb31583357a03c8b33d9"
+  },
+  {
+    "path": "media/brasero/alex-van-halen-sammy-hagar-bronca-2026.png",
+    "bytes": 2536615,
+    "sha256": "bab5021f92dbb24ce6b65f46a65b7e19577c348a65fef878c194c01a50aab183"
+  },
+  {
+    "path": "media/brasero/alpha-wolf-lochie-keogh-2026.jpg",
+    "bytes": 37096,
+    "sha256": "9541b421e69b88d0ad8daad0c842db8b4a35340df884bde3b5befa3aff154428"
+  },
+  {
+    "path": "media/brasero/amanda-somerville-tumor-cerebral-2026.png",
+    "bytes": 2277748,
+    "sha256": "f68ae45c85589c752405b8ccb7b5d8e3e24dd41e0790341bc6f449de2bb6dc4a"
+  },
+  {
+    "path": "media/brasero/andy-la-rocque-salida-king-diamond.jpg",
+    "bytes": 50845,
+    "sha256": "3c609b9db793e07783d51a0d559c9d528b7940fe11ff8fbd1c3105fbea244859"
+  },
+  {
+    "path": "media/brasero/andy-williams-every-time-i-die.webp",
+    "bytes": 151948,
+    "sha256": "d60ee2660aa4d75f24fe7338e0bb7c92197f3895858458828dd7e7cfe8fa8bf9"
+  },
+  {
+    "path": "media/brasero/azarock-2026-cancelado-editorial.webp",
+    "bytes": 175494,
+    "sha256": "d1c579d8f8f98815c3d19bc89238b78b8e13f1937bc79a9104b9bb07210f9365"
+  },
+  {
+    "path": "media/brasero/bad-wolves-skillet-tour-2026.webp",
+    "bytes": 112978,
+    "sha256": "794b46f34955bbe06f5a212cf9f35f3a102dedc029a1948c66afa2dc9e72a498"
+  },
+  {
+    "path": "media/brasero/brady-ebert-competencia-judicial-2026.jpg",
+    "bytes": 209049,
+    "sha256": "526fbf73723edc5fbc942861c3fdef0ff2f4458dab69bc21f1b6bf072a78e35a"
+  },
+  {
+    "path": "media/brasero/bret-michaels-cancela-resto-2026.jpg",
+    "bytes": 86719,
+    "sha256": "dc557e815246288e45606119b672002761675b27edb1736e5ad496d1b91a62a6"
+  },
+  {
+    "path": "media/brasero/bret-michaels-reposo-2026.jpg",
+    "bytes": 23004,
+    "sha256": "af5cf0fd27a545b7fce6de575347a4da0538a35cd6489558380a2811a61445fd"
+  },
+  {
+    "path": "media/brasero/bruno-kramm-das-ich-granada.webp",
+    "bytes": 107178,
+    "sha256": "e518bcd26d88c5bb28fad46f2fcdea9c2f5d8064be7ed8b07d81f5cf82921b5e"
+  },
+  {
+    "path": "media/brasero/buckcherry-bus-accident-2026.jpg",
+    "bytes": 115470,
+    "sha256": "d9d1e9c5da11abc871e7a33362326b32f464a3658b5d566368cdaa3017d632d2"
+  },
+  {
+    "path": "media/brasero/carcass-gira-australia-aplazada-2027.jpg",
+    "bytes": 21338,
+    "sha256": "7d8c3c9d1f36919e964c0a94112efacb5a4087ca89255eda1079aba76742cdb7"
+  },
+  {
+    "path": "media/brasero/chad-gilbert-new-found-glory-2026.png",
+    "bytes": 897118,
+    "sha256": "b642c425a96084ceff563f66b3828c199ce2eddb2b9a1c0b61ede881e869fac2"
+  },
+  {
+    "path": "media/brasero/cheetah-chrome-dead-boys-2026.jpg",
+    "bytes": 38971,
+    "sha256": "9f7fea4a0e71e1332da717ebb55053d51db943268576f5800cba8ca375a1ceba"
+  },
+  {
+    "path": "media/brasero/chris-holmes-cancer-2026.jpg",
+    "bytes": 30409,
+    "sha256": "004357925fad192a26b97ac2db068f725255a5671570972f85b58f4cc1c97b7a"
+  },
+  {
+    "path": "media/brasero/chuck-varga-sexecutioner.jpg",
+    "bytes": 438275,
+    "sha256": "f13430add67c2f35b69c0c65db0cb8374e01e6ed1eab36e62771dc5d9f061473"
+  },
+  {
+    "path": "media/brasero/crim-despedida-2027.jpg",
+    "bytes": 953379,
+    "sha256": "8ab78b9f1765494e0d0dcf82b45cb4325209e8b8338eb9ddb7777ced4df9e687"
+  },
+  {
+    "path": "media/brasero/demon-hunter-netflix-lawsuit-2026.jpg",
+    "bytes": 60996,
+    "sha256": "11fa714dadf7f75e051ab4636bab4f809eb8b41e34375923737472a1a2542f99"
+  },
+  {
+    "path": "media/brasero/dennis-pepa-cancer-2026.png",
+    "bytes": 887062,
+    "sha256": "43dd68357e274587acf49644f892ac6588116f360594a7539b4515217433e7d5"
+  },
+  {
+    "path": "media/brasero/devilskin-incidente-moshpit-2026.jpg",
+    "bytes": 80288,
+    "sha256": "bfbf3eed92a55a1b194663fdd877ef060cd67b7a217b3c1c42895de3f33b096f"
+  },
+  {
+    "path": "media/brasero/dez-fafara-tumor-2026.jpg",
+    "bytes": 44928,
+    "sha256": "f8c9c6ac48c6be06e408b3a787db9a836d897d475764753076d0bff434207c5e"
+  },
+  {
+    "path": "media/brasero/dom-lawson-bloodstock-heart-attack-2026.jpg",
+    "bytes": 966759,
+    "sha256": "5753f5c1d42f62d4c546e9273c0a2e0fa5803530a214a10ccaf2335d26f89201"
+  },
+  {
+    "path": "media/brasero/dragonforce-marc-hudson-tinnitus-2026.png",
+    "bytes": 2601276,
+    "sha256": "b9faeb9445eeda54819c0653624543f028903c5c6c3d17bf67e532d50867e0a7"
+  },
+  {
+    "path": "media/brasero/east-bay-ray-parkinson-2026.jpg",
+    "bytes": 401531,
+    "sha256": "9e54b272c0808b9cc4cdcfc49640959e4e1dd44e7d92c7ba2368164dc4721ab5"
+  },
+  {
+    "path": "media/brasero/enter-shikari-hiato-2027.png",
+    "bytes": 2458236,
+    "sha256": "fa6d18ffb127f10b5ceca0099bcff2c6c6967dbe0a585000f5069cffaf474404"
+  },
+  {
+    "path": "media/brasero/feuerschwanz-leyendas-2027-baja.png",
+    "bytes": 2106355,
+    "sha256": "26d9a428f14fb803c518185a0fd2e0a98eb3cb23adb12e9cee0a4f6be192214c"
+  },
+  {
+    "path": "media/brasero/fiesta-pagana-crisis-2026/01-cartel-oficial.png",
+    "bytes": 1403072,
+    "sha256": "9ceeba4475a2e23c96e96bf6110f1f9fac366f605a3b6cc0cb80679c81bdda2a"
+  },
+  {
+    "path": "media/brasero/fiesta-pagana-crisis-2026/02-estreno-morelia.png",
+    "bytes": 836417,
+    "sha256": "de14536b4cfe9270118ed05653794bb24a5b38e853d0492d5c6580f8a1017ea1"
+  },
+  {
+    "path": "media/brasero/fiesta-pagana-crisis-2026/03-reparto.png",
+    "bytes": 1056615,
+    "sha256": "03f136fe2af27168802cc4a89ba8c2c1a0da6cec61d2b0f97f5b856c65214577"
+  },
+  {
+    "path": "media/brasero/fiesta-pagana-crisis-2026/04-equipo-artistico.png",
+    "bytes": 1022701,
+    "sha256": "d1594515d2d3b1e979a06c05c232fd7d20940b9a4911e5dd7ccebe7712fd59b5"
+  },
+  {
+    "path": "media/brasero/fiesta-pagana-crisis-2026/05-equipo-tecnico.png",
+    "bytes": 942643,
+    "sha256": "489a2d51426a3a17f95a5541371cee71bcd4790305a0f69a38be5c99147f33d3"
+  },
+  {
+    "path": "media/brasero/fiesta-pagana-crisis-2026/06-sinopsis.png",
+    "bytes": 651870,
+    "sha256": "420e68b02ccaef9974e17a3aea86078037a7eb62e0550ec897a823e470fa66d7"
+  },
+  {
+    "path": "media/brasero/glenn-hughes-retiro-cirugia-2026.jpg",
+    "bytes": 198759,
+    "sha256": "c232d74cc2b0d90117f57a05180738299611f61ffaeac4e37904de9c9d299850"
+  },
+  {
+    "path": "media/brasero/gritando-en-silencio-pausa-2026.jpg",
+    "bytes": 268974,
+    "sha256": "b4f54566a944a63eae99f508015042f6de1179aa5d0e96f98416f7498d335d04"
+  },
+  {
+    "path": "media/brasero/hoods-gira-cancelada-2026.webp",
+    "bytes": 73794,
+    "sha256": "dbb5443fe007672bf96091ac358c3df3d9df2af52309e040e513df39bb688fd4"
+  },
+  {
+    "path": "media/brasero/hypocrisy-cancela-norteamerica-2026.jpg",
+    "bytes": 23150,
+    "sha256": "4b92e35ab53e80516e48f3762339bb8ae42f4de12dbd0affcc446b9756071d76"
+  },
+  {
+    "path": "media/brasero/ian-gillan-hospital-2026/escenario-vacio.png",
+    "bytes": 2039358,
+    "sha256": "f59c0d84d5581fdb278e6b379bbd390965963451a665aaea45fc5c002ff787c8"
+  },
+  {
+    "path": "media/brasero/joan-jett-cirugia-vertebra-2026.jpg",
+    "bytes": 42638,
+    "sha256": "5b74f32a4b435ffa777c478332761de12a845300ccd81359d23d8a054f38e270"
+  },
+  {
+    "path": "media/brasero/josh-homme-fuma-ford-field-2026.jpg",
+    "bytes": 49835,
+    "sha256": "80d651092bf1a2465e578afdcc46923d99489357b31fca9bfa45f5d38d25367d"
+  },
+  {
+    "path": "media/brasero/jussi69-salud-2026/jussi69-oficial.jpg",
+    "bytes": 32010,
+    "sha256": "1c62164c5a22e16a33ef3a27708e8c8d24eeb24d937e8f1a175d32ead7c8f7b9"
+  },
+  {
+    "path": "media/brasero/kabrones-ia-miseria-creativa.png",
+    "bytes": 2455418,
+    "sha256": "006e2da7abf5878143097114e532d258e5e73ca1f670a8414063ed2ea295e04c"
+  },
+  {
+    "path": "media/brasero/karl-sanders-cirugia-2026/karl-sanders-recuperacion.jpg",
+    "bytes": 60036,
+    "sha256": "a33fb69cd17e87c51640082e24d869fd6c8736ac5b0f33d8d265056d69a386f0"
+  },
+  {
+    "path": "media/brasero/keith-collins-savatage-2026.jpg",
+    "bytes": 18547,
+    "sha256": "023839c956c538790b34bf761e93844dfa8ae43a41f48fb68965cd62e45698e0"
+  },
+  {
+    "path": "media/brasero/kelly-osbourne-dee-snider-ozzy-2026.png",
+    "bytes": 2302608,
+    "sha256": "c84da806a077a36670ccbbfc13ea563ed9cdbd6927c75a21c93d8ebfbe0eb610"
+  },
+  {
+    "path": "media/brasero/lujuria-cancela-fechas-homenaje-chepas-2026.jpg",
+    "bytes": 257742,
+    "sha256": "0f3fe67ce4e58f2f78c76465994aa16557bc1264efdb0e091de568988048722f"
+  },
+  {
+    "path": "media/brasero/mago-de-oz-kabrones-zeta-carteles-2026.png",
+    "bytes": 2709488,
+    "sha256": "bcc9c4f9cab28062a3d20f8339217ed2efc853f5c2cb0c7eb2d1bdf2825d113d"
+  },
+  {
+    "path": "media/brasero/mago-de-oz-ribadeo-planton-2026.jpg",
+    "bytes": 89439,
+    "sha256": "c791756432b5c47f78f5e48bc62307f882fb0fe587a726ab0b51f1713befe02e"
+  },
+  {
+    "path": "media/brasero/mago-de-oz-silbato-tudela-2026.webp",
+    "bytes": 108824,
+    "sha256": "0c91914eb2e8b54d4f509c555ff3596994841cd23626581c753328f790315f37"
+  },
+  {
+    "path": "media/brasero/marcus-andersson-disfear-editorial.png",
+    "bytes": 2337498,
+    "sha256": "70b0f1284461fde325d0fa8ae46d65be3b2c8765c713c7782c70075f0da84992"
+  },
+  {
+    "path": "media/brasero/merauder-jorge-rosado-polemica-2026.webp",
+    "bytes": 70716,
+    "sha256": "7f3b34361909271b532ce1230d460db7ba4982717b6dd63d9e8051edd3244237"
+  },
+  {
+    "path": "media/brasero/mikko-karmila-estudio-editorial.webp",
+    "bytes": 160602,
+    "sha256": "62078189ec4a130115278809c37fd0b27a6cd7d13e00447a5dc48de5d87e74a7"
+  },
+  {
+    "path": "media/brasero/nervosa-prika-amaral-gira-cancelada-2026.webp",
+    "bytes": 195646,
+    "sha256": "f20710cee42375e023ee86af00f7ee601bb5e87b7cd710e46b004decf985d0a0"
+  },
+  {
+    "path": "media/brasero/nicko-trump-2026/hello-boys-girls-oficial.jpg",
+    "bytes": 306060,
+    "sha256": "24baeed2c27fbf78dd8c8b19ea5b808c2094473ac620a995bcf9d9b321540ff2"
+  },
+  {
+    "path": "media/brasero/nicko-trump-2026/nicko-oficial.jpg",
+    "bytes": 402887,
+    "sha256": "f73e7be99363fb76d3a22ba05852e6707cefe63dec51215870f93bbc8a3c5e74"
+  },
+  {
+    "path": "media/brasero/nightwish-floor-jansen-separacion-2026.jpg",
+    "bytes": 57509,
+    "sha256": "d48a402ef9a9f5bd0dc35649815b1c53ae5aa945706e160bc4aa3869c0d851c7"
+  },
+  {
+    "path": "media/brasero/nightwish-floor-kai-2026/floor-jansen-hytress-oficial.jpg",
+    "bytes": 528283,
+    "sha256": "b804be88415319af5c95361fdfb7d82db052ad825f9aa7051d058cf893efc8bb"
+  },
+  {
+    "path": "media/brasero/nightwish-floor-kai-2026/kai-hahto-oficial.jpg",
+    "bytes": 127693,
+    "sha256": "0768d7a6a99280256fb8674dfc35d12bfcd9800c488839801c7f23c4a2ad3a86"
+  },
+  {
+    "path": "media/brasero/nightwish-floor-kai-2026/nightwish-yesterwynde-prensa.jpg",
+    "bytes": 123088,
+    "sha256": "c33695701d4786548da326bcd35f9075728ecfaaef91926fb2829d21eba94883"
+  },
+  {
+    "path": "media/brasero/noodles-pausa-salud-2026.png",
+    "bytes": 2106914,
+    "sha256": "6fe2e12e8b4203b9690b9b2f172135b5f3c680c9ac81fe67d4b84f5ccb47b0ce"
+  },
+  {
+    "path": "media/brasero/papa-roach-louder-than-life-cancelado-2026.png",
+    "bytes": 1742993,
+    "sha256": "8d7ab67151a5547e9e39f2f5186949714f8fe76bd4940d45f4910779b0fd9a65"
+  },
+  {
+    "path": "media/brasero/pete-sandoval-i-am-morbid-terrorizer-2026.png",
+    "bytes": 2344144,
+    "sha256": "254c549a06319c62796e76a11ec87ea53cc6cac871f7348bb1d7893612a85e2e"
+  },
+  {
+    "path": "media/brasero/peter-baltes-caida-escenario.jpg",
+    "bytes": 46931,
+    "sha256": "367bac654032896f4f1063c3980f91f8e178c0e010f946eafefb636885ad7b81"
+  },
+  {
+    "path": "media/brasero/rage-cancela-2026-peavy-recuperacion.png",
+    "bytes": 1827749,
+    "sha256": "b7082c32a873508b0a73633e08c22d957c9234c29998ade30f8b90d1ea048a1e"
+  },
+  {
+    "path": "media/brasero/rod-stewart-stent-cancelaciones-2026.jpg",
+    "bytes": 192789,
+    "sha256": "66c66c89b407ebde39c8c3fad9b785c4409810bdec7b2e89162e7e393dfdd629"
+  },
+  {
+    "path": "media/brasero/rose-tattoo-angry-anderson-hospital-2026.jpg",
+    "bytes": 32785,
+    "sha256": "7bfaa07541ada0c25d96e21882b8fdf1b64f140b9d755415bee28482c51ac208"
+  },
+  {
+    "path": "media/brasero/rush-san-jose-aplazado-2026.png",
+    "bytes": 2383963,
+    "sha256": "75a389fa81ccc569f76e25af36e906382f2f9323f1b4c35f8c4a3c2015e4772a"
+  },
+  {
+    "path": "media/brasero/sass-jordan-2026.webp",
+    "bytes": 1458778,
+    "sha256": "2f6901076696b07043ef1a0a8830c20a8860e5a0d970b5b3de00f9a0c782f1a0"
+  },
+  {
+    "path": "media/brasero/scorpions-las-vegas-aplazado-2027.png",
+    "bytes": 2009427,
+    "sha256": "42b85ac1ae41f96e62bf5182cfb064dec1bb8502c114ee8756ce2326225f7d99"
+  },
+  {
+    "path": "media/brasero/slipknot-sid-wilson-salida-2026.jpg",
+    "bytes": 34277,
+    "sha256": "f966a5ef4dc9be9375349abb102fbc7f001db4b56486c1d4c2daaea80f892cbd"
+  },
+  {
+    "path": "media/brasero/static-x-2023.png",
+    "bytes": 1652518,
+    "sha256": "5ab138e47e31202728c07126a299625b25353222cf2c2fa74ff110dfaac7e89d"
+  },
+  {
+    "path": "media/brasero/stryper-oz-fox-2026.jpg",
+    "bytes": 48224,
+    "sha256": "1625ae675a78f0085bef23778628c6e723353576d184ee99ed8c54c66e5f8069"
+  },
+  {
+    "path": "media/brasero/wacken-parches-antifascistas-2026.jpg",
+    "bytes": 63109,
+    "sha256": "b4a30c8383bfc4189fe14b533897bf47e57294099d004c5d64fcceef00ee9d4a"
+  },
+  {
+    "path": "media/brasero/yob-mike-scheidt-cancelaciones-2026.webp",
+    "bytes": 41542,
+    "sha256": "b85d64b842116fe139318ae089b4379c23e073091093f549c090034a8dceaaa7"
+  },
+  {
+    "path": "media/humor/gobierno-metal-2026/gobierno.png",
+    "bytes": 3053948,
+    "sha256": "045163f8c920e7f4a69ddc9f8ff1813de07cfc1df133c017057ebd1420789acc"
+  },
+  {
+    "path": "media/humor/gobierno-metal-2026/senado.png",
+    "bytes": 3631808,
+    "sha256": "747c43601e514e6d3ec0c93d8deaf04197644698294f3b6fdc01d509d3e95edb"
+  },
+  {
+    "path": "media/metal-games/beatle-quest-cover.jpg",
+    "bytes": 169366,
+    "sha256": "42b2e347121da8c60c5ae8361d67e6d9c150557ca26d5718cbbdc7d5606a7d73"
+  },
+  {
+    "path": "media/metal-games/blues-brothers-2000-n64-cover.jpg",
+    "bytes": 956826,
+    "sha256": "df24b1e6c3d1db917f832a54c5e6131a15719c8ab99e21ab3ff731484f75f363"
+  },
+  {
+    "path": "media/metal-games/blues-brothers-jukebox-adventure-game-boy-eu-cover.jpg",
+    "bytes": 608361,
+    "sha256": "b86c4d7d603068dfdc47e0dcfcbd3c20ae25f7ed763a6fe5f301fd6f87e6b2f9"
+  },
+  {
+    "path": "media/metal-games/brutal-legend-xbox-360-pal-cover.jpg",
+    "bytes": 361755,
+    "sha256": "efa68785c7b9b48095c03a89cd22dfb56bc31bf5c00cdac54f4f181e39e449a4"
+  },
+  {
+    "path": "media/metal-games/crue-ball-mega-drive-pal-cover.jpg",
+    "bytes": 790245,
+    "sha256": "6076a348e09c4950ac5e3dba28d31f7673d26ba82e38312673b86504ccaf7f4c"
+  },
+  {
+    "path": "media/metal-games/devo-adventures-smart-patrol-pc-cover.jpg",
+    "bytes": 383894,
+    "sha256": "0ba6132f8e613bd4728144a66f4db028f3c0b0c95b08b77f862e79d49a6b2e11"
+  },
+  {
+    "path": "media/metal-games/earache-extreme-metal-racing-ps2-pal-cover.jpg",
+    "bytes": 1962860,
+    "sha256": "b6eddc85306839067e660603db521a36555b7e537292c5c5d8aa3850541d73f4"
+  },
+  {
+    "path": "media/metal-games/ed-hunter-1999-north-america-cover.jpg",
+    "bytes": 331642,
+    "sha256": "fffa3b6aa77d87bc0c6b0703abd64282b71ad305e51a7dda0307513a57ab5017"
+  },
+  {
+    "path": "media/metal-games/frankie-goes-to-hollywood-1985-c64-cover.jpg",
+    "bytes": 471428,
+    "sha256": "7354513a74f5e14dac922a4088bdad58cbb095674b7ff9c7d2ce5e18263f1ed8"
+  },
+  {
+    "path": "media/metal-games/gekitotsu-toma-larc-2000-ps1-jp-cover.jpg",
+    "bytes": 75667,
+    "sha256": "4cca386465d46971fc72a29d077b61dceff8583e0d8d62a316939c81f17ad82e"
+  },
+  {
+    "path": "media/metal-games/glay-complete-works-1999-ps1-jp-front.jpg",
+    "bytes": 168872,
+    "sha256": "df0534df46dc559e65e8aaf558872c06246d7d00142af98b8b45115b9d5d89cf"
+  },
+  {
+    "path": "media/metal-games/green-day-rock-band-2010-ps3-pal-cover.jpg",
+    "bytes": 272830,
+    "sha256": "0f0d19a5e82887175ffdac279c80b759b452f9e38635a74671ec908dd7560f08"
+  },
+  {
+    "path": "media/metal-games/guitar-hero-aerosmith-2008-ps3-na-cover.jpg",
+    "bytes": 1267869,
+    "sha256": "914a03e21c9f619cded37410dd55cf3eb8d0a78a8703c7b056c7745027fedd40"
+  },
+  {
+    "path": "media/metal-games/guitar-hero-metallica-2009-ps3-de-cover.jpg",
+    "bytes": 165504,
+    "sha256": "adf86859c4765a31c34284989c7be8a13d875d08f44c46d38aff8cd0ae2f6573"
+  },
+  {
+    "path": "media/metal-games/the-beatles-rock-band-cover.jpg",
+    "bytes": 58938,
+    "sha256": "98ecf98008826f4db6ef07b09e34862e8ba3487a4887f2a39c722188043c551f"
+  },
+  {
+    "path": "media/metal-games/the-blues-brothers-nes-cover.png",
+    "bytes": 993840,
+    "sha256": "0ad4911886c26de1b5566bf1c9e31f745c0489efee978873ca1893a0cb477827"
+  },
+  {
+    "path": "media/news/200-stab-wounds-lowest-form-editorial.webp",
+    "bytes": 197896,
+    "sha256": "533179f238dcbc819159efc12470cbedd4c484d30299b0b64832c6f29d702671"
+  },
+  {
+    "path": "media/news/70000-tons-2027.jpg",
+    "bytes": 28131,
+    "sha256": "84258c3b9e77d04403f6b7eae58f69247bc7255a7e2d7bf3608f762370785e11"
+  },
+  {
+    "path": "media/news/a-mala-sombra-barco-papel.jpg",
+    "bytes": 37300,
+    "sha256": "ee7965e9afdea69519acf8890b2b101c38d0cff758c8f11cbee3a019c6999d1d"
+  },
+  {
+    "path": "media/news/accept-save-us-2026.webp",
+    "bytes": 245168,
+    "sha256": "be91bcdabc4276d403de4756081a40d466176cf6da0843522146f1a601f3677d"
+  },
+  {
+    "path": "media/news/aether-realm-season-bloodshed-2026.png",
+    "bytes": 2320284,
+    "sha256": "7c2c52d19e4018c2f3ec65176306044a73e3d2a86e4d6a804a7d994648fa8517"
+  },
+  {
+    "path": "media/news/agnostic-front-divided.jpg",
+    "bytes": 19609,
+    "sha256": "f02516b0cfed9319160c235d0025d7fea86c177d15f9ec961f208b0bba9c7731"
+  },
+  {
+    "path": "media/news/airbourne-here-she-comes-2026.jpg",
+    "bytes": 43294,
+    "sha256": "fa537580c9b0e7d2dcd7a12f0cb977e447c71807208b7b0322d176cd5ba81f2b"
+  },
+  {
+    "path": "media/news/alcatraz-open-air-2026-cartel.jpg",
+    "bytes": 509293,
+    "sha256": "c5e4e2c1f386539e8e9a7713911eff4796f12dbf2e1e03e53aa6f4b1dbce7b16"
+  },
+  {
+    "path": "media/news/amon-amarth-allfather-press-2026.jpg",
+    "bytes": 531724,
+    "sha256": "cff540c3363ee6b5828cb511c854eeb45109edcdb18bbc40c4a0fb71594bb8ca"
+  },
+  {
+    "path": "media/news/amon-amarth-gjallarhorn.jpg",
+    "bytes": 21190,
+    "sha256": "d991ca71b9f52804f9121322f5780c542bdef336a40c903187c9b63da026f0e6"
+  },
+  {
+    "path": "media/news/andrew-wk-temptation-to-exist-2026.jpg",
+    "bytes": 161038,
+    "sha256": "c776c22cfa8f836928c6913b770fecbab92ae2599520e44b61c55df8e479a85b"
+  },
+  {
+    "path": "media/news/angelus-apatrida-the-reckoning-2026.jpg",
+    "bytes": 139851,
+    "sha256": "023d5ebb7bf68e60556b9e1e145bdf65e7d75615de9241785f8d15569e9d8363"
+  },
+  {
+    "path": "media/news/angelus-apatrida-the-reckoning-spain-2026.jpg",
+    "bytes": 354794,
+    "sha256": "2d8201ee52b7c22853114b6778495af10947bd8a9474613eb1c55c379ec402be"
+  },
+  {
+    "path": "media/news/angra-full-metal-japan-2026.jpg",
+    "bytes": 42556,
+    "sha256": "5c9f8860fa9a8fe80d83b34970ffa5c125cc4293a813bb940a7e723dcb53585c"
+  },
+  {
+    "path": "media/news/angra-make-believe-live-2026.jpg",
+    "bytes": 499608,
+    "sha256": "82026b69ecbab93a584146a28fd76316b69102eb646b98a00e61618853367458"
+  },
+  {
+    "path": "media/news/anthrax-cursum-perficio-2026.webp",
+    "bytes": 1266644,
+    "sha256": "b674b8bd49e6944611445bd37c8a4079db31594a20e01e18e4046040602e1f0e"
+  },
+  {
+    "path": "media/news/arch-enemy-lauren-hart-2026.jpg",
+    "bytes": 52576,
+    "sha256": "b9d4f9f0fa80c3636d5c92c2d0b8f9ff0ae4766ff50ae1d0caed1733235e01b3"
+  },
+  {
+    "path": "media/news/as-i-lay-dying-self-titled-editorial.png",
+    "bytes": 2382613,
+    "sha256": "ee604c2972970ef0d82fca5a19dc83e0a14d72a7423ffa83c13c4c768aa921ab"
+  },
+  {
+    "path": "media/news/asia-echo-of-you-2026.jpg",
+    "bytes": 246550,
+    "sha256": "667958674c0ceb36ff208b43cee48891eaef21360b00fe1a7c1c36bbe3e1d57c"
+  },
+  {
+    "path": "media/news/avalanch-expiacion-tour-2027.jpg",
+    "bytes": 75375,
+    "sha256": "6e9522c36b124bd23ac750700f7feec88c839c1a03d3e3267838c585e60c9a1f"
+  },
+  {
+    "path": "media/news/avalanch-expiacion-videoclip.jpg",
+    "bytes": 175338,
+    "sha256": "394130c0abbf1ee056f8899adb7901cc844cb7fbc2c6ee3ff99c6c7098ab186d"
+  },
+  {
+    "path": "media/news/avenged-sevenfold-statica.jpg",
+    "bytes": 32167,
+    "sha256": "ab489a0766753661da0ea65427436962b701aacb1cbabbcf4b22d21cd6e0eea7"
+  },
+  {
+    "path": "media/news/azarath-scorn-eternal-2026.jpg",
+    "bytes": 96891,
+    "sha256": "2efa25d791968ca7db14e3a2c16cdab161e1ab9c671fb3196566ee4ae9f3b15e"
+  },
+  {
+    "path": "media/news/azkena-rock-festival-25-2027.png",
+    "bytes": 3031756,
+    "sha256": "24df3aa47dacbf95376bcfb017c377b9b4dd4199409aae0a2a6a0dd5dfe51e75"
+  },
+  {
+    "path": "media/news/azrael-35-aniversario/cartel-oficial.jpg",
+    "bytes": 45458,
+    "sha256": "7378d38fb77d3e59f280f393f1408bffc971cff41f695b6c9e4842000154845b"
+  },
+  {
+    "path": "media/news/beast-in-black-band6.jpg",
+    "bytes": 65191,
+    "sha256": "bd1cdd338c365edf1387db628998be8bfb193ce16632bd4873673779bdc27b4f"
+  },
+  {
+    "path": "media/news/beast-in-black-etb-horizontal.jpg",
+    "bytes": 61462,
+    "sha256": "c8192e0f71e191d06a40748b756e09764c7801ebef17d2b911a08acc37d862eb"
+  },
+  {
+    "path": "media/news/beast-in-black-lost-children-artwork.jpg",
+    "bytes": 389112,
+    "sha256": "c50ecdd444f2d2127dc0f787289ad3a191d2dddf0901b4dcff0646875d0f7016"
+  },
+  {
+    "path": "media/news/beast-in-black-lost-children-band.jpg",
+    "bytes": 604538,
+    "sha256": "f0b50ff54ef15275824f2051f275a33a02a5e2f18d4066b0badc0f964c942c06"
+  },
+  {
+    "path": "media/news/beast-in-black-resurrection-tour-2026.webp",
+    "bytes": 405016,
+    "sha256": "5a75d0581c71ba6a4899b936207446bf23fb3da96179d9eb37bacd530b9d6e58"
+  },
+  {
+    "path": "media/news/belphegor-album-13-2027.png",
+    "bytes": 42369,
+    "sha256": "c4d64550b930ae37a528bb98faf53574e39e752f1d443d07988926cc335d0c47"
+  },
+  {
+    "path": "media/news/black-sabbath-nib-beat-club-1970.jpg",
+    "bytes": 81495,
+    "sha256": "bfc6bc92a785eab91f60586f7d014c0b0a678a6eb5ac01981a210f8ad1f3d149"
+  },
+  {
+    "path": "media/news/black-spikes-zelvar.jpg",
+    "bytes": 36941,
+    "sha256": "3481770879a926336c06290992e0ea8ba03b11311429722efb0b44dc8809d0ee"
+  },
+  {
+    "path": "media/news/blind-channel-painstream-2026.jpg",
+    "bytes": 48429,
+    "sha256": "5cedb874baa0ae4133b8da2d7066ad048a971cc419f48cb5c5882af033629794"
+  },
+  {
+    "path": "media/news/bloodhunter-death-legacy-tour-editorial.jpg",
+    "bytes": 415349,
+    "sha256": "78ac74fff72d0c2e4309508de3d3f9646c42dabbc0045ea1a256bc3f24a80af9"
+  },
+  {
+    "path": "media/news/bon-jovi-msg-july-2026.jpg",
+    "bytes": 44522,
+    "sha256": "46479b89be7c0c98b6e8a857efc9ac6328fb574e330645294b5c7530f6a612f0"
+  },
+  {
+    "path": "media/news/boundaries-spain-2027.jpg",
+    "bytes": 1265358,
+    "sha256": "ce9b9eaf0fbf5da5eb533b253540d0e843aa832f7608064c4e480cbad50b8510"
+  },
+  {
+    "path": "media/news/bruce-dickinson-psychogod-2027/cartel-oficial.png",
+    "bytes": 836485,
+    "sha256": "1484d674b7afa76f2fbd105f917beda56c569defc0753ecd024c99e71b1a43ec"
+  },
+  {
+    "path": "media/news/bruce-dickinson-solo-album-2027.jpg",
+    "bytes": 29406,
+    "sha256": "29a3f9b23e04b855de3ef1df8d31f410291dd2aaa50744f3189e5978b6812cf7"
+  },
+  {
+    "path": "media/news/brymir-tempestbound-2026.jpg",
+    "bytes": 632115,
+    "sha256": "e4d68cc9ceb8c44522792956431f0977c595813d50458ee682a238d6ae5debb6"
+  },
+  {
+    "path": "media/news/bullet-for-my-valentine-social-apocalypse-2027.png",
+    "bytes": 2748848,
+    "sha256": "a75c953207c19f091d7a28ada2ff90d95fc647058bf4bedde470ceb6e11d0be9"
+  },
+  {
+    "path": "media/news/burn-eternal-metal-blade-2026.jpg",
+    "bytes": 107023,
+    "sha256": "2ef56bd8e7b89b51d8c2550077552945f04315a0aaae892b91a5b56ba119952f"
+  },
+  {
+    "path": "media/news/burning-witches-laura-guldemond-comunicado-2026.webp",
+    "bytes": 316202,
+    "sha256": "bebbf7c718d08befd1f0fa057698480f79f6a947af8a5cb121773db35526d1ad"
+  },
+  {
+    "path": "media/news/butcher-babies-nightbloom-2026.jpg",
+    "bytes": 49989,
+    "sha256": "7c6b5327b7e8ade9f5b234a24da36daccdfa6c6358fff4bd72f46cf6cea223c5"
+  },
+  {
+    "path": "media/news/buyakers-2026/buyancico.jpg",
+    "bytes": 367444,
+    "sha256": "cb2d50d5c7724592db1a0c80e98736d3aac631d13bc7b2deeb49c6e10ff13819"
+  },
+  {
+    "path": "media/news/buyakers-2026/cartel-navidad.jpg",
+    "bytes": 644901,
+    "sha256": "a0e6c135cdba3372aba4c0d4f302af03b47336c347c132ec85fb19800665f5ba"
+  },
+  {
+    "path": "media/news/buyakers-2026/single-horizontal.jpg",
+    "bytes": 268429,
+    "sha256": "623e165ae50f0bdf3e4e3fe4defe522886b0c8ce3ec81300eda570dd51253588"
+  },
+  {
+    "path": "media/news/buyakers-2026/single-vertical.jpg",
+    "bytes": 480723,
+    "sha256": "f245db1949334f3b12966f33762b8369ac0b9a1f0074fdf953d6112931688228"
+  },
+  {
+    "path": "media/news/callous-daoboys-watching-us-kiss-2026.webp",
+    "bytes": 210480,
+    "sha256": "f3ed7e4e23438831c0673a1cc7e2530aeb7f4e3482881d1da9ea454a1f8878c7"
+  },
+  {
+    "path": "media/news/can-mercader-festival-2026.jpg",
+    "bytes": 68232,
+    "sha256": "8c52ccb3979d59ba2b1d05ffa9f5b5e42d22d2e7ddb081f2fbf80fbf3fb3e45b"
+  },
+  {
+    "path": "media/news/candlemass-nuevo-album-2026.jpg",
+    "bytes": 63228,
+    "sha256": "b319a8278994d4b52e8692eb4a081856d90f62f5acdd6f9b43ce46162b4259fe"
+  },
+  {
+    "path": "media/news/carnifex-more-than-misery-2026.jpg",
+    "bytes": 82048,
+    "sha256": "11641d0fe230f54def10e45afcf923cc4a7ade6f1f555f965bd9fda404fbe519"
+  },
+  {
+    "path": "media/news/cenobia-lethal-devotion-2026.webp",
+    "bytes": 22376,
+    "sha256": "9a9ffdca402f7a73f550bf55137168dfdbd99e9db7f9c9414934d754f6d604f7"
+  },
+  {
+    "path": "media/news/chelsea-wolfe-cold.jpg",
+    "bytes": 76096,
+    "sha256": "9f3609fe3153f09735cb20a30d36401fe398fcd12b50c2d3e273f3de0179b427"
+  },
+  {
+    "path": "media/news/chez-kane-bad-girl.jpg",
+    "bytes": 172996,
+    "sha256": "ec194fbebe33469837855d83e2cfdc998da6f50676edff7a495131fabdf9d93b"
+  },
+  {
+    "path": "media/news/chez-kane-one-day-2026.jpg",
+    "bytes": 34635,
+    "sha256": "ed1278fb368a84eb3b34feba96d30ff84b55b5efc4e257543306ea37ac838566"
+  },
+  {
+    "path": "media/news/chiodos-tapdat.jpg",
+    "bytes": 38012,
+    "sha256": "d4d2cead8f46bae3b7147117f2228514b3fc759d7e24b7ddc0320be79188d85f"
+  },
+  {
+    "path": "media/news/chris-slade-retirada-2026.png",
+    "bytes": 1848383,
+    "sha256": "3ac02110ea2013902a797d19dc072018a03046e80e9e86e0c9c56fe81fd6f425"
+  },
+  {
+    "path": "media/news/circulo-numerico-bonus-02-2026.png",
+    "bytes": 3562684,
+    "sha256": "fb1e869c5503a86ed645b6435de56c539deededa55a5f5e8efcab0ebf47e12f0"
+  },
+  {
+    "path": "media/news/circulo-numerico-bonus-02-reel.mp4",
+    "bytes": 2778784,
+    "sha256": "04d49168bfddb06be61b6d8d283e6a0fa9e19462d8fda87d4c3b8c51d2ebcc71"
+  },
+  {
+    "path": "media/news/circulo-numerico-reino-problemas.jpg",
+    "bytes": 428566,
+    "sha256": "56a541626e4ce02f04c38460ec0638187f7e58205a4c00e6dae06e6598f29229"
+  },
+  {
+    "path": "media/news/cirith-ungol-all-the-shadows-2026.jpg",
+    "bytes": 66715,
+    "sha256": "6a86294201b0c0f5a5395b2827ca17f5ddbc2468e07e47df14abccc33ac32b7d"
+  },
+  {
+    "path": "media/news/cky-beware-heartless-brent-hinds-2026.jpg",
+    "bytes": 150140,
+    "sha256": "b2960bb1b91ad9ae6eaf24dce75a592b0133d15946c3cd48d9f2fc1aa99e46d8"
+  },
+  {
+    "path": "media/news/clutch-drifter-2026.webp",
+    "bytes": 45382,
+    "sha256": "e31f6ba8c2fe6a65646a2a85086722a60ef21ad4ea670414262d7f8917b60c21"
+  },
+  {
+    "path": "media/news/clutch-wasted-lands-2027.jpg",
+    "bytes": 110146,
+    "sha256": "9fe48d06226299d92fa6261c241945f7ff3b194c2075639b6072226de50144e5"
+  },
+  {
+    "path": "media/news/comeback-kid-chosen-hell-2026.webp",
+    "bytes": 148168,
+    "sha256": "2fc22bf519055ffdfcb76fda2c54d6512c198f03191ce043777ebab7435cde9e"
+  },
+  {
+    "path": "media/news/corrosion-of-conformity-baad-man.jpg",
+    "bytes": 39987,
+    "sha256": "8832a53098d8761ff47170d3225e64a86311e1950a1328bd5f5d3772d3635440"
+  },
+  {
+    "path": "media/news/cro-mags-40-years-of-quarrel-2026.jpg",
+    "bytes": 49126,
+    "sha256": "2f431be94e049bbda76d32c5290c2bb1b0eb8040b88d17d06c50c4e002b9928c"
+  },
+  {
+    "path": "media/news/crossbone-skully-condemned-rock-roll-2027.webp",
+    "bytes": 593282,
+    "sha256": "b70d007f82d42310d82b402bf963866140338dcea18143579e5fb0210e44edec"
+  },
+  {
+    "path": "media/news/crystal-lake-pk-vocalist-2026.jpg",
+    "bytes": 15337,
+    "sha256": "73ae00d6260f2fbe0158b9424e60e4743f5178ebda848eaa7a8b38356c2064ac"
+  },
+  {
+    "path": "media/news/dark-funeral-new-album.jpg",
+    "bytes": 29526,
+    "sha256": "279bc4a4b6c4aa775c041a7659f5536ae1fe68f0a0239b1e4d6162a1c1cfb513"
+  },
+  {
+    "path": "media/news/dark-moor-formacion-2026/formacion-oficial.jpg",
+    "bytes": 42658,
+    "sha256": "8469893da1af8817225fa184ee8928a91711f4cf4380e5c89828bd4a9a391410"
+  },
+  {
+    "path": "media/news/darkest-hour-suffer-divine-2026.png",
+    "bytes": 2439250,
+    "sha256": "489b031ecd8c49c1452cee9d5c2561c194eaf24550f319fd7d4cc83c9e6adbb8"
+  },
+  {
+    "path": "media/news/david-lee-roth-cancellations.jpg",
+    "bytes": 24561,
+    "sha256": "53b72e034794c2af3fd86d852c10b41d9c9083191173d8a719cc345de69fdd97"
+  },
+  {
+    "path": "media/news/deafheaven-fields-bomb-2026.webp",
+    "bytes": 137138,
+    "sha256": "acef978565abefdc55a3278882ec0ffc7b7b1277b8a61856c8afed048e4f6e5c"
+  },
+  {
+    "path": "media/news/deicide-leyendas-2026.jpg",
+    "bytes": 15291,
+    "sha256": "924f6e94cf7ee03aa024e51a631c458983fff2ce18a95789d5d41d7d3140fab1"
+  },
+  {
+    "path": "media/news/delain-we-are-fire-2026.png",
+    "bytes": 2484342,
+    "sha256": "34c947cea4c42b3d34dcc9b37cca497e49b8958f4f96c3db1300572e5bcef3ae"
+  },
+  {
+    "path": "media/news/derrick-green-futuro-post-sepultura-2026.webp",
+    "bytes": 88012,
+    "sha256": "fd4bda66909cbba379579a1ecdcdccf09faab6a80af596e03fdc717678816c36"
+  },
+  {
+    "path": "media/news/diego-godoy-despedida-sinkope-editorial.png",
+    "bytes": 2028712,
+    "sha256": "0d5f2f5e59f5124db3bc308f05a4db54a5ade285c85de2bfff4ac16cdafcbf56"
+  },
+  {
+    "path": "media/news/dirty-honey-catch-my-butterfly-2027.jpg",
+    "bytes": 87029,
+    "sha256": "2167dcbe22921c5747698281cfbe707a5c28867d345a0b6c5b59549a1064e563"
+  },
+  {
+    "path": "media/news/dizzel-marco-mendoza-es-gremi-2026.jpg",
+    "bytes": 429358,
+    "sha256": "542d4c7de36d566e140320e6d0e756b14d6ea99167e80a3dacaaded911ae158f"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-01.webp",
+    "bytes": 9962,
+    "sha256": "fe41341c7e031a82bebeaec4934dcd242c7007fd77830d4f97d22b9c605f91a5"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-02.webp",
+    "bytes": 23498,
+    "sha256": "86391584395d403fb6c3c59da859d757cc248cce6d280f314bbea85ef22bebf8"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-03.webp",
+    "bytes": 185178,
+    "sha256": "8a7133d037c793196349cdeda798a529829ee6465ac50419449f14185c6cecbd"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-04.webp",
+    "bytes": 179184,
+    "sha256": "8bd6893bb1f86f32b191b9837f95e176da6fcda387762bc07f23250e52023791"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-05.webp",
+    "bytes": 131378,
+    "sha256": "26c2859ff5c7d1443e60b018abc8c65e07a39e5f9994f3a1f4539efd363e3bea"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-06.webp",
+    "bytes": 113958,
+    "sha256": "81b1e95cb42b9418fdff0556e81dbdc0862889dde81c9f6481cfb66b69bbd4f0"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-07.webp",
+    "bytes": 332766,
+    "sha256": "2b9d93f84fb4261de765fe2506c20e9793653b8da0e78a28726fd8f3c494ceeb"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-08.webp",
+    "bytes": 49492,
+    "sha256": "444a22417556e903a0e62d1908e4945de119153044d9186001b9def3a299e9ca"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-09.webp",
+    "bytes": 23128,
+    "sha256": "8ca2d7232d9c39d7ecbeff0251596dce411f92a195c69db7c689139a279a99f5"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-10.webp",
+    "bytes": 41266,
+    "sha256": "268aed42805b6f01652983a23853108573739f73b2807f9153dbfd50bbd76424"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-11.webp",
+    "bytes": 94836,
+    "sha256": "e37a79c85b34495febd15fe0815ecce47477380650d72f6ced724efb6438ed95"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-12.webp",
+    "bytes": 171886,
+    "sha256": "cc471b79ce9415aafd7e0427444938245081acf2e4139573fddbb6180ebb6f79"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-13.webp",
+    "bytes": 44792,
+    "sha256": "1d8bcece8e18d08e49df88dbc1ae9646217848a01f0ed0bcae751786c42ef115"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-14.webp",
+    "bytes": 72852,
+    "sha256": "9c0ddc0c7dc70f4a358ac04d0b8ff2f1125c31762d93e61348da5377d42462ae"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-15.webp",
+    "bytes": 184322,
+    "sha256": "0c0bc932d6be85e7601bd59b3a4773c81fef05d0331fc3f78ddd67b79d1bc301"
+  },
+  {
+    "path": "media/news/dolly-parton/dolly-16.webp",
+    "bytes": 801208,
+    "sha256": "37ce8117873d0cbef7877001dcca48e0184b9ab3ac892ebbeff20d923f836909"
+  },
+  {
+    "path": "media/news/doom-2016-laced-2026.jpg",
+    "bytes": 218901,
+    "sha256": "c21f2fc3bd9c0ded1ec3a1a7048eabde6b61818672eeaea1fc09b743b2b8fe70"
+  },
+  {
+    "path": "media/news/down-volume-v-2026.jpg",
+    "bytes": 39017,
+    "sha256": "94a63e7370b700fd6906b1ee29cf39588020625165725a9ba57fe1a19381ebda"
+  },
+  {
+    "path": "media/news/dragonforce-album-2027-editorial.jpg",
+    "bytes": 517797,
+    "sha256": "ca9afd87fd3b60d0d7c5bac8e74dc499c09ac2e55cb3979b7bc2143ad5d98562"
+  },
+  {
+    "path": "media/news/dragonland-prophecies-2026.jpg",
+    "bytes": 36156,
+    "sha256": "45bd75ef0d55bda49f2f08132e30287c56c1635e02948154ec0db968cda2066e"
+  },
+  {
+    "path": "media/news/dream-theater-dt17-estudio-2026.png",
+    "bytes": 2186715,
+    "sha256": "033c9ecdfee1c7458d1a53b0e33457a16020dc5d4683130d1a7504210609f164"
+  },
+  {
+    "path": "media/news/duo-jatekok-rammstein-on-the-beach-2027.jpg",
+    "bytes": 55812,
+    "sha256": "4cea1c345147827e3b945a247ca3966dafc23a562647a46f92de25e317fd6a1e"
+  },
+  {
+    "path": "media/news/dynazty-dark-arts-2027/dark-arts-portada.jpg",
+    "bytes": 86228,
+    "sha256": "79c6552e686c0b4825e13603be2cbe5f657a073582f71ee8cf5182b694506233"
+  },
+  {
+    "path": "media/news/dynazty-dark-arts-2027/the-mission-video.jpg",
+    "bytes": 185421,
+    "sha256": "efd93ec9feb689096007c474266c67b705f496695094b2d13f794c26eed7336e"
+  },
+  {
+    "path": "media/news/electric-callboy-the-way-you-are-2026.jpg",
+    "bytes": 48305,
+    "sha256": "60679913e20af1bf6701f54240d34faef8994219aa689957671168c9eab69887"
+  },
+  {
+    "path": "media/news/eleine-watch-as-we-rise-2026.jpg",
+    "bytes": 24650,
+    "sha256": "517fc158713dee58ae10964158724da1273903679410b4a57dc8d1db5faa2453"
+  },
+  {
+    "path": "media/news/ellis-manners-2026.jpg",
+    "bytes": 20211,
+    "sha256": "81f3c6fed862f5612dfb5418bd7763629304279c3092ecde0e846c0cfa9c9f41"
+  },
+  {
+    "path": "media/news/embellish-20-aniversario-cartel.jpg",
+    "bytes": 675454,
+    "sha256": "0aa14f7674631c648b88c8503132a1053fe2f7d8cd2a41114f773c60c750e804"
+  },
+  {
+    "path": "media/news/embellish-20-aniversario-portada.jpg",
+    "bytes": 78035,
+    "sha256": "b23fdbe7d351486c6ce23749996c93bae0b8fceb9a08f60c86faf00930545b90"
+  },
+  {
+    "path": "media/news/embellish-20-aniversario-vinilo.jpg",
+    "bytes": 801602,
+    "sha256": "b4418c0053285e256e4a89e741d142ca9f85549dec3154840c3bc3232891d95d"
+  },
+  {
+    "path": "media/news/embellish-20-aniversario.jpg",
+    "bytes": 215078,
+    "sha256": "e23bc7d552f47f18adfaed003b28408317eb4c3ec429bd577c1829c2fc64dca5"
+  },
+  {
+    "path": "media/news/enslaved-mid-2026.jpg",
+    "bytes": 440968,
+    "sha256": "60d8c50a0727b10c32f76dd67f5faeffcb492b632802c12268afcb3a9a790ca8"
+  },
+  {
+    "path": "media/news/epica-symphonic-synergy-madrid-editorial.webp",
+    "bytes": 185124,
+    "sha256": "29192e41b70a8b3e50fc51b93a0cae87d1a60b7fe11ba0b61f2546200d05be2c"
+  },
+  {
+    "path": "media/news/espana-campeona-mundo-2026.png",
+    "bytes": 2552781,
+    "sha256": "1e1debeef616fed898369daf3724d64850cc2fc955ad9b14652e6e4e48aa44c9"
+  },
+  {
+    "path": "media/news/espana-campeona-oficial-sefutbol.jpg",
+    "bytes": 536002,
+    "sha256": "33d13031bef752ad4b2ed2a18d61bd7e9f9e36c2682dd3d745dc7adc3b13b997"
+  },
+  {
+    "path": "media/news/extol-aura-of-decay-2026.jpg",
+    "bytes": 46315,
+    "sha256": "9757dcb41cf35256d29ed5336a7d9a0ca95696deb9009d885899c21e3273bac4"
+  },
+  {
+    "path": "media/news/exumer-allocated-savagery-2026.jpg",
+    "bytes": 149099,
+    "sha256": "5ec8d0e515af1ee83a4d20cc4621463c83c94ea36aca57d0fc92dcc0979495e5"
+  },
+  {
+    "path": "media/news/fear-factory-roboticist-2026.jpg",
+    "bytes": 47843,
+    "sha256": "96ac0fa7b69772ccf94c230710bd07e933e664e49373a420e48d0fc7688b807b"
+  },
+  {
+    "path": "media/news/ffdp-red-rocks-stream-2026.png",
+    "bytes": 1830965,
+    "sha256": "9fee52f5a553c040bdbdf565bd167c86c89709dc3742c52bc23b1ea8a5b06849"
+  },
+  {
+    "path": "media/news/firewind-spain-tour-2027.jpg",
+    "bytes": 954239,
+    "sha256": "eb1a29bc04bcc6cd4abcb05facb8999ab9a61e2d32a4d2e00d6053f14a0cdc52"
+  },
+  {
+    "path": "media/news/five-finger-death-punch-donacion-2026/01-entrega-cheques-craig-hunter-ross.jpg",
+    "bytes": 65214,
+    "sha256": "43c4b170a4a3afc1be8e5f14589e4f31b530f82c719606eb5610409b779f4daa"
+  },
+  {
+    "path": "media/news/five-finger-death-punch-donacion-2026/02-banda-oficial.jpg",
+    "bytes": 412481,
+    "sha256": "6cc24a793ebcb93100decdbc8e8d831e15b47724dab97c361afd966bc910a302"
+  },
+  {
+    "path": "media/news/five-finger-death-punch-donacion-2026/03-zoltan-bathory-judo.jpg",
+    "bytes": 127620,
+    "sha256": "655443b696f1c6cc1dd9a4020a160023005df74889176a417c9139197a2fdd5a"
+  },
+  {
+    "path": "media/news/five-finger-death-punch-legacy-2026.jpg",
+    "bytes": 546544,
+    "sha256": "939ea283f247581eab711d2319c1c2f712e5ca8a43408b20c5edc72b26af0973"
+  },
+  {
+    "path": "media/news/five-finger-death-punch-world-of-tanks-2026.webp",
+    "bytes": 241536,
+    "sha256": "53686521423201315f48e08335d0863e36ea5d4737837e98e35f034c978ca652"
+  },
+  {
+    "path": "media/news/floor-jansen-hytress-bring-me-silence-2026.jpg",
+    "bytes": 120836,
+    "sha256": "b6a713c1762bd4ce1283a775584444ef49fa435e5e5e83e16d9ef96747d8ed67"
+  },
+  {
+    "path": "media/news/forbidden-psyclops.jpg",
+    "bytes": 21700,
+    "sha256": "0cb520b82bd8a601cfc2daac4cab3b843da8ddc0ce042d323a9a1fe72b1c647a"
+  },
+  {
+    "path": "media/news/foreigner-head-games-trouble-2026.png",
+    "bytes": 2398277,
+    "sha256": "6f1882364e4b3ca80c316518986c8164582f36edc0f58e3e878a597b69f342b7"
+  },
+  {
+    "path": "media/news/fozzy-i-know-evil-video-2026.jpg",
+    "bytes": 77131,
+    "sha256": "5fa1731648d5ba084b25e15fe7cee4ba1ff0792db909eb693046d2c75aabaa8f"
+  },
+  {
+    "path": "media/news/frank-beard-zz-top-1949-2026.png",
+    "bytes": 1344247,
+    "sha256": "a4a4ecb53d2823416338297f77c99c8509e014907296917a2b630aba32cda3b3"
+  },
+  {
+    "path": "media/news/frontierer-wool-glasses-2026.jpg",
+    "bytes": 110409,
+    "sha256": "c9087e166b16b5f1953813683776e944a41fe5f883997bf195ae9f6218939d45"
+  },
+  {
+    "path": "media/news/frozen-crown-reborn-2026.jpg",
+    "bytes": 66916,
+    "sha256": "51effccdd5f10bc346c9ad8f8f25bdb81e1868367b69bdaa0bf9658aea7e67e2"
+  },
+  {
+    "path": "media/news/frozen-soul-spain-2027.jpg",
+    "bytes": 261550,
+    "sha256": "e86e2e1eb5a0829def79689e7f6dce12c84f1fdbafcb9560f059b3e2254a242f"
+  },
+  {
+    "path": "media/news/gammacide-toxic-mercenaries.jpg",
+    "bytes": 27938,
+    "sha256": "83e2fb66a0d49d7443aac3f1e228888c07e010226f363cc39b2976004585a748"
+  },
+  {
+    "path": "media/news/gates-of-ishtar-ghosts-2026.jpg",
+    "bytes": 66302,
+    "sha256": "66f36c8694325b78d9dccd6f1ebf2d3ea695bbbf86b3af64ff1ca5f556bc1abc"
+  },
+  {
+    "path": "media/news/gates-of-ishtar-murder-the-light-cover.jpg",
+    "bytes": 1186306,
+    "sha256": "2621a72f2b683faafda5be7236c1485bbfc8997ff1e92f1c04aa013600c95c23"
+  },
+  {
+    "path": "media/news/ghost-2-big-to-rig-2026.jpg",
+    "bytes": 262908,
+    "sha256": "891d904a5c4057a8395fe5a7fdfd07417e8474111aea8edc1a5329e774599c43"
+  },
+  {
+    "path": "media/news/girish-generation-coward.jpg",
+    "bytes": 20969,
+    "sha256": "9cc8c9be7844128ac42d96521d2561db819afe3e633b36fe3a5dfaaa43e09ca1"
+  },
+  {
+    "path": "media/news/glasswaves-while-true-2026.png",
+    "bytes": 2309264,
+    "sha256": "d7a1897e23e0bc43c7fdc5901bbcc6a5afd0edb58ea6f51ec1a7ee1a77bfe1d3"
+  },
+  {
+    "path": "media/news/glen-hansard-2026.jpg",
+    "bytes": 116589,
+    "sha256": "b970a20a68539c53a2bd71c212a34206358ab69e6e5c160bcc20fa4e4631f0de"
+  },
+  {
+    "path": "media/news/godflesh-decay-2026.jpg",
+    "bytes": 349464,
+    "sha256": "fc256a574ef38b65b00f57d000dc0666932367010f1495e3ce4b91f8616156b4"
+  },
+  {
+    "path": "media/news/gods-hate-wont-be-disgraced-2026.webp",
+    "bytes": 340496,
+    "sha256": "f66093570977f92fa0caca78682608d133f9957a66cea58fc03821fe26c18f1a"
+  },
+  {
+    "path": "media/news/godsmack-new-music-2027.png",
+    "bytes": 2300078,
+    "sha256": "f5dc5f4375e7ee079cbd16949bec826161a4f3f1504aec39b7714e240e869322"
+  },
+  {
+    "path": "media/news/good-things-festival-2026-lineup.png",
+    "bytes": 627664,
+    "sha256": "8796d6397ec1ffe413bee73e99edaf5bbb41d6bc4ff9e442e4b985b2206f7415"
+  },
+  {
+    "path": "media/news/graham-bonnet-circuit-breaker-2027.jpg",
+    "bytes": 108892,
+    "sha256": "bed19353190d382b115e408b43af4ee9b42dc25ea6e1202b19c13d2060fed94e"
+  },
+  {
+    "path": "media/news/great-nola-trendkill-2026.png",
+    "bytes": 2586737,
+    "sha256": "52b9afd658b3c239c58e65943cc535a7e993199c8b70cff7b4d7d7cdda7713a7"
+  },
+  {
+    "path": "media/news/greta-van-fleet-saw-you-stand.jpg",
+    "bytes": 185640,
+    "sha256": "fa8e71ae858538a9b2e42b004607797c2f03dd96f02065788c0738a7c6a35c2e"
+  },
+  {
+    "path": "media/news/halestorm-perry-mason.jpg",
+    "bytes": 11574,
+    "sha256": "05ea7a0fe64b903cfc2cdf1a9f9d8f06eb5615c0fd710618f073ece2607187b6"
+  },
+  {
+    "path": "media/news/hatebreed-kill-count-increase.jpg",
+    "bytes": 17711,
+    "sha256": "5d57ef082988f6a09582bcb6e2487114a054384d131fb154b0768004b6b31ae0"
+  },
+  {
+    "path": "media/news/hatesphere-guillotine-2026.jpg",
+    "bytes": 318235,
+    "sha256": "eef1620a11577281814988b6aaf1f185c27765e3f1d7a8c4a72406e6b3a38048"
+  },
+  {
+    "path": "media/news/hellacopters-dregen-lg-valeta-editorial.png",
+    "bytes": 2233733,
+    "sha256": "2a2a64ac67c40d210887f71a48c922737b33c96d2768fc0d676a953773c6589b"
+  },
+  {
+    "path": "media/news/helloween-kiske-new-album.jpg",
+    "bytes": 43936,
+    "sha256": "14871be3a8d1157ee2e3bd40451625b7018cd1fe8758839bc3e611861524449d"
+  },
+  {
+    "path": "media/news/hollywood-vampires-ace-spades.jpg",
+    "bytes": 20293,
+    "sha256": "233a092e65f957a2f9251b3aa50de6f9e5e46f77de8e259abd32e160af76c2cb"
+  },
+  {
+    "path": "media/news/hollywood-walk-of-fame-rock-2027.jpg",
+    "bytes": 186582,
+    "sha256": "98cd91a778ad059a58d46acc67171bba8fbf71ea52b524ee0029d5c5ee373ed9"
+  },
+  {
+    "path": "media/news/ice-nine-kills-terror-tram-2026.jpg",
+    "bytes": 29485,
+    "sha256": "6c805d0299505567a25ea03b2923c90a0c1d6c4b82d7b4fe42142a9c096ed0d7"
+  },
+  {
+    "path": "media/news/if-these-walls-could-rock.jpg",
+    "bytes": 12774,
+    "sha256": "1b51013bd71ea69b6ea200bcb05e0abffeda1d3985ea01af35aaec3b5b2f35bb"
+  },
+  {
+    "path": "media/news/ignea-2026-lame-perfect.jpg",
+    "bytes": 103681,
+    "sha256": "589eb374ea2b6a1e13759de2605fe01aae826d1d5542b7f153fcf11816d7cb1e"
+  },
+  {
+    "path": "media/news/imminence-axis-mundi-2026.webp",
+    "bytes": 171120,
+    "sha256": "b9d1a3f9b701370db960307b62d93843688574f8df5b4e864af12e481ca7b032"
+  },
+  {
+    "path": "media/news/in-this-moment-i-want-to-believe-2026.jpg",
+    "bytes": 204,
+    "sha256": "0dcc0813d3624bb32ed5274dbf8c83e3e8f9951384e91328cdae6d10b42b4566"
+  },
+  {
+    "path": "media/news/in-this-moment-press-2026.jpg",
+    "bytes": 90038,
+    "sha256": "f93d85bfa890d159a9f0a20452e4c39e3450e36de9d192bd653febf6e58dcbcf"
+  },
+  {
+    "path": "media/news/influencers-2026/codigo-descuento-stream.webp",
+    "bytes": 105768,
+    "sha256": "9d4c2a4f9c3cc1e514afd8aa4f39d82ccb59431fb4ca7611cf275afbe33bd02c"
+  },
+  {
+    "path": "media/news/influencers-2026/elizabeth-zharoff.webp",
+    "bytes": 60290,
+    "sha256": "f660ebdffb0abeddd7bd2f1841d1932c05fabb179606c3c3b53a3f1c32b12146"
+  },
+  {
+    "path": "media/news/influencers-2026/estepario-siberiano.webp",
+    "bytes": 121048,
+    "sha256": "df6228175afbed7f7676f9db5d28b198bf2fb7b3da50235572b183f94b47e117"
+  },
+  {
+    "path": "media/news/influencers-2026/festival-campana-creadores.webp",
+    "bytes": 125000,
+    "sha256": "15171361e4de48d1c007da3cdf34a5f71b8fffce6dd90b439e5a93fd410fa1ce"
+  },
+  {
+    "path": "media/news/influencers-2026/lumenti-stream-festival.webp",
+    "bytes": 95416,
+    "sha256": "f7aa8ff01fd6e995445aefb456b77abfcc9fa77d118c19600c8275ee39e96685"
+  },
+  {
+    "path": "media/news/influencers-2026/metalovision.webp",
+    "bytes": 101490,
+    "sha256": "f9d26e5d27601b0c6905472fe52b45004b8f970e1e22dd7160b5870a29e55423"
+  },
+  {
+    "path": "media/news/influencers-2026/nik-nocturnal.webp",
+    "bytes": 47926,
+    "sha256": "19fbed299a9da9ddf1b6ab5f96545f734c8c615abf515533c530d78603249eec"
+  },
+  {
+    "path": "media/news/influencers-2026/shauntrack.webp",
+    "bytes": 21324,
+    "sha256": "b8004f0b3aa0aa43dd160e3c40603e607d02f9a536b455c6cd1371aa6dfeb532"
+  },
+  {
+    "path": "media/news/influencers-2026/zayk-metalovision.webp",
+    "bytes": 38138,
+    "sha256": "08be857817040c51c53cb2f45f0a2a1c9c6076b9f18588e9ede368df7bbc49e0"
+  },
+  {
+    "path": "media/news/insomnium-netherworlds.jpg",
+    "bytes": 884938,
+    "sha256": "8dec8e2a19835a4b6746d97e3141035293a285ee7fddd4e7707bed5583d0b87b"
+  },
+  {
+    "path": "media/news/iridium-endgame-2026.jpg",
+    "bytes": 115247,
+    "sha256": "6011fc48a40d803a397c4ae26dda1011b6543cf7b8e24a34e54a906de6410f28"
+  },
+  {
+    "path": "media/news/iron-maiden-eddfest.jpg",
+    "bytes": 29477,
+    "sha256": "64e501bc8e26f2eaf6e5530f03e613ab879060b5766498d5fdf590aaf6ab685b"
+  },
+  {
+    "path": "media/news/iron-maiden-north-america-2027.jpg",
+    "bytes": 830795,
+    "sha256": "6e62cba9d34699fbc37cf9f6b78b770cce248de74427a20b76255d037dd7cece"
+  },
+  {
+    "path": "media/news/iron-maiden-somewhere-in-time-40-2026.png",
+    "bytes": 1875191,
+    "sha256": "a19f13b137d81ec0e456b2f126e3dd3c61a6ca0aef098f423706aa87287a8b1c"
+  },
+  {
+    "path": "media/news/iron-savior-deathbringer-2026.jpg",
+    "bytes": 70150,
+    "sha256": "3e6ee095ee3823f0336517eff3ce327c4fd5e2428dc056f1b927916433b96f0e"
+  },
+  {
+    "path": "media/news/jennifer-finch-l7-official.webp",
+    "bytes": 50490,
+    "sha256": "4d2abd0d90c710ce957507a3755943104b4fa170a7200e4c16538970bd422a60"
+  },
+  {
+    "path": "media/news/jero-ramiro-preventa.jpg",
+    "bytes": 50446,
+    "sha256": "6f3f6112b4b37c9471a4009af052251b0e89399bdb8bc36e522afece203467ba"
+  },
+  {
+    "path": "media/news/john-carpenter-revenge-cathedral.jpg",
+    "bytes": 279748,
+    "sha256": "35b3ad59b84e2c9e8a16c2c01781d785736d02a69e7275f2786bc209ddb503d7"
+  },
+  {
+    "path": "media/news/john5-wednesday13-2027.jpg",
+    "bytes": 45245,
+    "sha256": "f706b2182200cbc4c629d651b9a78ce91760bfa6e2c29c5538d0f7f24a6949dd"
+  },
+  {
+    "path": "media/news/jonathan-davis-yoshiki-2026.jpg",
+    "bytes": 164743,
+    "sha256": "ad6321d327ef7dfbb21bb1d53cae1a3ba82e8dbe65424e1bb687b6842d8f197c"
+  },
+  {
+    "path": "media/news/judas-priest-faithkeepers-bobfest.jpg",
+    "bytes": 172975,
+    "sha256": "3e5feabd817a251fa5e4c8b9d6dbf91995c1ca2965a8facc03cd3d6829d270d2"
+  },
+  {
+    "path": "media/news/judas-priest-sad-wings-50.jpg",
+    "bytes": 187941,
+    "sha256": "a9fd665c814bbd3bf92fe9d520fc5c79211923b2e277a0369c1255b56388347e"
+  },
+  {
+    "path": "media/news/judiciary-wall-of-skulls-2026.webp",
+    "bytes": 37984,
+    "sha256": "e16db388cc4111cb29e76f564601a9abc11474bdb0dd48121876dac8bf7eb0ad"
+  },
+  {
+    "path": "media/news/kamelot-godlike-alchemy-2026.jpg",
+    "bytes": 35373,
+    "sha256": "223ee138ecbf508c4efb6ad96667c1985310f81dfb9297e010c415217d05da1b"
+  },
+  {
+    "path": "media/news/karnivool-be-prog-2027.webp",
+    "bytes": 196266,
+    "sha256": "3386d641fac3fd87be8d2e1522588341e53cd0f284fbd9e10a7562f6e6ab28ec"
+  },
+  {
+    "path": "media/news/kim-dracula-molecular-conversion.jpg",
+    "bytes": 20249,
+    "sha256": "bc315d4043dbd30926be0df753a9e9596fb014a9e00b5e38b12cc8e12371875c"
+  },
+  {
+    "path": "media/news/king-gizzard-alien-metal-2026.jpg",
+    "bytes": 56035,
+    "sha256": "d3d19613a663c662dc3c2bc680bb1ec847d4f147962710f1e398f5d216699485"
+  },
+  {
+    "path": "media/news/king-ultramega-birth-ritual.jpg",
+    "bytes": 19709,
+    "sha256": "cd650e38a7dcb256d7770fcb9d3193d4201dddc5064cbff398210107f7ea9206"
+  },
+  {
+    "path": "media/news/kingdom-of-giants-usurper-2026.png",
+    "bytes": 2385095,
+    "sha256": "89fb59010c20eddedc7558659a8996136d6b9bcc567fceba2010269e7396820d"
+  },
+  {
+    "path": "media/news/kiss-detroit-rock-city-7inch.png",
+    "bytes": 593314,
+    "sha256": "575ef3a94c49a645fe24862859f390545ac2597731e943dc1eb09d74ee770ddd"
+  },
+  {
+    "path": "media/news/korn-life-is-peachy-30-2026.png",
+    "bytes": 1119450,
+    "sha256": "748cb886fcb51204f5900854390725fcae9cf289283aa777a00d5196382455f9"
+  },
+  {
+    "path": "media/news/krallice-living-useless-ritual.webp",
+    "bytes": 51568,
+    "sha256": "53617983d1bd11d5450da71e5d0737095c3523c3aa28fc39c4a3d81716e4d7f1"
+  },
+  {
+    "path": "media/news/la-viniloteca-rafabrasas-2026.png",
+    "bytes": 2492729,
+    "sha256": "f06136090086f98a6e3a5d654f18460b4fc4328f08982663e688efd54a0fd3df"
+  },
+  {
+    "path": "media/news/lacrimas-profundere-o-silent-fear-2026.jpg",
+    "bytes": 27205,
+    "sha256": "2decb501919cf46e3c2ff42c4c31462e1d9aea7d3a3dcb3f222f67db4352e787"
+  },
+  {
+    "path": "media/news/larcenia-roe-sandy-cheeks.webp",
+    "bytes": 16638,
+    "sha256": "9721dd8c7048fb66530b278207c7a244017e69f96d1a50976ee1c35fcca336e7"
+  },
+  {
+    "path": "media/news/led-zeppelin-bath-1970-poster-oficial.webp",
+    "bytes": 40486,
+    "sha256": "5f662ee141db30eec8ac088b01228c126d477c5a038a76b7463d4cad9ccb1ef4"
+  },
+  {
+    "path": "media/news/leyendas-del-rock-2027-primer-cartel.jpg",
+    "bytes": 130055,
+    "sha256": "119f6609c57580d740caab804ddf19c753a4c1e2f778609caac47d17b4f7c4b6"
+  },
+  {
+    "path": "media/news/linkin-park-unshatter-2026.jpg",
+    "bytes": 253536,
+    "sha256": "f6dc5a21870d49e86538b896a91cd9a46c52a484bb64b153bed5ad090504fe71"
+  },
+  {
+    "path": "media/news/lita-ford-dracula/dracula-video.jpg",
+    "bytes": 238930,
+    "sha256": "8f362b7a5e3df736f90d850f608d193bbd576870d2d960bdf810744e5a1dbf08"
+  },
+  {
+    "path": "media/news/lita-ford-frontiers-dracula.png",
+    "bytes": 1486739,
+    "sha256": "890ff509adeaad7665e7fcfed6d15442948e291c7cebb02130099050f7903216"
+  },
+  {
+    "path": "media/news/lita-ford-live-2026.jpg",
+    "bytes": 258757,
+    "sha256": "ed9089daf1036cbd63cbf5aa67f09195b94f9316082c9b1ca7a4500191245c72"
+  },
+  {
+    "path": "media/news/litost-trangol.jpg",
+    "bytes": 114476,
+    "sha256": "fd13875fdaa4e242401ce27685c68866fef88372b026d33ceddba4dd5fa48f92"
+  },
+  {
+    "path": "media/news/lou-koller-sick-of-it-all.jpg",
+    "bytes": 31974,
+    "sha256": "bf6ac621f7ef80d23f9628f6852a5b03c5d0454eb2e406533f39407633fc7131"
+  },
+  {
+    "path": "media/news/lustmord-lombardo-2026.jpg",
+    "bytes": 5400,
+    "sha256": "cc4a22669fd5a02b548c8e9e07dd19298d3638ac73142ef44a78a87183b2f1ae"
+  },
+  {
+    "path": "media/news/machine-head-unto-the-locust-15-2026.png",
+    "bytes": 1646894,
+    "sha256": "e6fe0ee7af39df73a96b5e88ba1b29449b543ff2a4c5aa534c6e60a4261a718d"
+  },
+  {
+    "path": "media/news/madball-dont-misstep.jpg",
+    "bytes": 202314,
+    "sha256": "467383512c49808682ff9864d09f5fefff153377c48efed94b11cd2c20b0faa6"
+  },
+  {
+    "path": "media/news/marciano-saavedra-ciencia-ficcion-2026.jpg",
+    "bytes": 230724,
+    "sha256": "c60716acea27cdc3016628e7cb498663eeec6ec090d63b69436ca9dda4a6480b"
+  },
+  {
+    "path": "media/news/marciano-saavedra-reconocimiento-los-angeles-2026.jpg",
+    "bytes": 205113,
+    "sha256": "50e1f16e7eb130271019c6c3fd9d3cc53bf0c93709fadd9460af8a439fc3be6e"
+  },
+  {
+    "path": "media/news/marcos-elvis/01-portada-marcos-elvis.jfif",
+    "bytes": 35533,
+    "sha256": "7e3f69a9d5170aee211cd6d52c0aa4c11f585c35b8d450d697760768d6640280"
+  },
+  {
+    "path": "media/news/marcos-elvis/02-marcos-elvis-motero.jpg",
+    "bytes": 194903,
+    "sha256": "1a22d6b4ab226f899c5370f3e5d9c77d6869c95b962d540544d54c80128722f9"
+  },
+  {
+    "path": "media/news/marcos-elvis/03-retrato-ilustrado.jpg",
+    "bytes": 40088,
+    "sha256": "d1e9e497aa742875fb01dc9416c7bf3576aff798a3ed47bf64ce2f13a603f153"
+  },
+  {
+    "path": "media/news/marcos-elvis/04-ceremonia-rockera.jpg",
+    "bytes": 277423,
+    "sha256": "b20a2cf6721ca00bb347cbc84ef1c66a4af739ce77e10dcb90769895c44b7131"
+  },
+  {
+    "path": "media/news/marcos-elvis/05-con-musicos.jpg",
+    "bytes": 219913,
+    "sha256": "da54b1ee6891da4456f3df180a5e28714a230e22321114bf0afa51fbdfe08d1c"
+  },
+  {
+    "path": "media/news/marcos-elvis/06-siete-muelles.jpg",
+    "bytes": 120993,
+    "sha256": "99521d51826f40e353d56cf0ac63fd8f08496ded0f95cb5e77022535ad81f471"
+  },
+  {
+    "path": "media/news/marcos-elvis/07-archivo-les-amis.jpg",
+    "bytes": 647472,
+    "sha256": "2636c0924a4f0dc9b6851f547dc6312c54e0ad3511b3fc880a8bc26b5528240d"
+  },
+  {
+    "path": "media/news/marcos-elvis/08-archivo-les-amis.jpg",
+    "bytes": 622540,
+    "sha256": "cc445b216ac7c3331fc84a33e9d73c7e727c533d8a47ef187f472ffd1bba6745"
+  },
+  {
+    "path": "media/news/marcos-elvis/09-archivo-les-amis.jpg",
+    "bytes": 820205,
+    "sha256": "06d3d30244e5d9af01ede3a8082b0604394dbe6789eca13347092c02fa407aa9"
+  },
+  {
+    "path": "media/news/marcos-elvis/10-archivo-les-amis.jpg",
+    "bytes": 497672,
+    "sha256": "6eb54a7130bc2302492e3780d2a031439fbd848a421aefb1d6dce94e5e1f6038"
+  },
+  {
+    "path": "media/news/marcos-elvis/11-archivo-les-amis.jpg",
+    "bytes": 495922,
+    "sha256": "a591cf50b8840f9804e7150010537a3b042195c19601b6e9a5359a7a5616f684"
+  },
+  {
+    "path": "media/news/marcos-elvis/12-archivo-les-amis.jpg",
+    "bytes": 427955,
+    "sha256": "95f0e31b0dc9c7385a0a663b28eaed41e4314d216306f5af22615237d3634cdb"
+  },
+  {
+    "path": "media/news/marcos-elvis/13-archivo-les-amis.jpg",
+    "bytes": 53381,
+    "sha256": "1ba7e41d5efb0e5c686503083cb17eaed2f0264fc5a9508280c271dfd30d884c"
+  },
+  {
+    "path": "media/news/marcos-elvis/14-archivo-les-amis.jpg",
+    "bytes": 63980,
+    "sha256": "2eee45a3d73fefd367a9335088e19c7a0c77f247bb09825f944fb833ea370097"
+  },
+  {
+    "path": "media/news/marcos-elvis/15-archivo-les-amis.jpg",
+    "bytes": 61336,
+    "sha256": "0f1e2f5e3ea34b7264f749220742436383824a297c0796714c009aace9d221c4"
+  },
+  {
+    "path": "media/news/marcos-elvis/16-archivo-les-amis.jpg",
+    "bytes": 108746,
+    "sha256": "84979c80703c969a66080bad3d7763e3a5c50ca4485aa60aea233c2b2c05d549"
+  },
+  {
+    "path": "media/news/marcos-elvis/19-esquela-segura.jpg",
+    "bytes": 33362,
+    "sha256": "a921c4df3a56c71ffeaaf4fb588526ac48549d7701e54847751415c69d5d2d44"
+  },
+  {
+    "path": "media/news/maremagnum-band.jpg",
+    "bytes": 115290,
+    "sha256": "a2cb54c35429d4bca4ff9ae7d779b6458710a6864beadae9c7e3e2ac1b95a6da"
+  },
+  {
+    "path": "media/news/marilyn-manson-front-toward-enemy.jpg",
+    "bytes": 88778,
+    "sha256": "f885f4835767f3999e0a19508c81bfbf9f60448a3ea9ee5e124750f456984b5a"
+  },
+  {
+    "path": "media/news/mastodon-john-baizley-gira-editorial.webp",
+    "bytes": 178356,
+    "sha256": "0120d47b8f3b00e59ffafeffed797f135d38d631c2b9a84b4a7cc3608d4e5860"
+  },
+  {
+    "path": "media/news/mastodon-marrow-deep.jpg",
+    "bytes": 20022,
+    "sha256": "e469ae82afef4c94ecfd25f504a9f6618513598a998574e233266d4db1129586"
+  },
+  {
+    "path": "media/news/megadeth-black-label-society-testament-2027.jpg",
+    "bytes": 2137789,
+    "sha256": "00740e0d8d7bb72279ba9d1356a7d0c50aae59c02ae8fa202b3fcd076b9cb2f2"
+  },
+  {
+    "path": "media/news/mental-cruelty-echoes-forlorn-land-2026.jpg",
+    "bytes": 171520,
+    "sha256": "835686dff507c6855c375428681a19de9df5df38fd48107029ab03876c9aac56"
+  },
+  {
+    "path": "media/news/messa-band-2026.jpg",
+    "bytes": 346079,
+    "sha256": "60b898e1c582c7fb2b131211eb4cd70e6cf1c5634689ee2b16fb446bd9f9a407"
+  },
+  {
+    "path": "media/news/messa-the-spin.jpg",
+    "bytes": 80309,
+    "sha256": "b4610636f0c8bd57a149291121cd7b2c2651499d73d67bb47e697ba48e6ad26f"
+  },
+  {
+    "path": "media/news/messa-tour-2026-poster.jpg",
+    "bytes": 91398,
+    "sha256": "1beb027322c1cb8f428d1d4d6ef32cf7309132e84eac3a8fae089d15036108bb"
+  },
+  {
+    "path": "media/news/metalkrusa-burning-tyres-2026.jpg",
+    "bytes": 157945,
+    "sha256": "65a4e3accd4e6a0116c0b450a72c88cf2c571646c75d200a29505794a7cf5709"
+  },
+  {
+    "path": "media/news/metallica-bleeding-me-europe-2026.jpg",
+    "bytes": 347529,
+    "sha256": "7277b58a093f296c4f65205812bf3306b5074e4b010f6b2c5e6336397656f073"
+  },
+  {
+    "path": "media/news/metallica-cardiff-master-of-puppets.jpg",
+    "bytes": 302089,
+    "sha256": "e0580dbeda6160650fbcc9e8219194943ebbd645cbd815b086ff2514ef2b78bd"
+  },
+  {
+    "path": "media/news/metallica-m72-north-america-2027.jpg",
+    "bytes": 356745,
+    "sha256": "8b2324de83263a02dc6ce8c07db3b519860acc2d4098c47cc93dad0f0de0c121"
+  },
+  {
+    "path": "media/news/mick-gordon-doom-radar-2027.jpg",
+    "bytes": 178477,
+    "sha256": "b7798a063cd455fc13c472ffad300ca7bb6e6069367af46be17a3eda4265ab01"
+  },
+  {
+    "path": "media/news/ministry-final-2027/ilustracion-editorial.jpg",
+    "bytes": 439186,
+    "sha256": "876c498ce0c5032b95905a40f757b07434a78280b4050e1bd529a1621e096e6f"
+  },
+  {
+    "path": "media/news/misery-index-feral-future.jpg",
+    "bytes": 99409,
+    "sha256": "844f59ae14dd062ec8b67dc3d79b337435249de04a5f705767d2c49c8abafa05"
+  },
+  {
+    "path": "media/news/molly-hatchet-lost-horizon-2026.jpg",
+    "bytes": 376858,
+    "sha256": "c520b2c3ecb8472fee3c43d172f56806630c73066f638e12f41f5428ea9f7b9b"
+  },
+  {
+    "path": "media/news/moonspell-god-is-a-vampire-tour-2027.jpg",
+    "bytes": 326369,
+    "sha256": "035e0e0144120d4a4238dae95664fb3126a052eb9d11d6e14973d99ae53993ab"
+  },
+  {
+    "path": "media/news/mother-of-graves-the-light-that-keeps-us-2026.jpg",
+    "bytes": 121312,
+    "sha256": "6aca667811bfd3d5fb3a1a9eb9068f4b6889e1d7efeb879dcd5e86e99a389887"
+  },
+  {
+    "path": "media/news/municipal-waste-new-album-2027.webp",
+    "bytes": 430544,
+    "sha256": "5e7a4e9ca6ff25f71db00643a1408749aaef0fdd4a1b542533f939ec69b1c405"
+  },
+  {
+    "path": "media/news/muse-wow-signal-spain-2027.webp",
+    "bytes": 105602,
+    "sha256": "50bce773d4eb82f2e1de4ade7654306366fb2a65807a2b18284e6d45ab36c966"
+  },
+  {
+    "path": "media/news/nefarious-spain-tour-2026.jpg",
+    "bytes": 40094,
+    "sha256": "c809719653cdcb15f550bc994482520d1ed4f2e89732297c4d7d870b4c4c005c"
+  },
+  {
+    "path": "media/news/neil-peart-no-ones-disciple-2026.jpg",
+    "bytes": 120656,
+    "sha256": "b1aa6ac57a3001c0522c8ab0ad88f4dbd774bf6cbf033e05d982a95427013902"
+  },
+  {
+    "path": "media/news/nestor-teenage-rebel-live-2026.jpg",
+    "bytes": 477927,
+    "sha256": "bd146d00b6c7b1a31f977852cc7693de51ab358c3f5703b975376891dd6a2c13"
+  },
+  {
+    "path": "media/news/neurosis-regreso-2026.jpg",
+    "bytes": 66632,
+    "sha256": "0da26076bd2c3111afcf81decae3b96a160cc7ffb6285be72d8a0b12e7e76446"
+  },
+  {
+    "path": "media/news/nevermore-spain-2027-editorial.webp",
+    "bytes": 173736,
+    "sha256": "e4856de5054266ef6a612e4d466eb1d698dcd21fa1f3cf4d032f8d7248bcd1b5"
+  },
+  {
+    "path": "media/news/nigel-durham-saxon-2026.jpg",
+    "bytes": 21509,
+    "sha256": "2ef8e337e1bebf45fd64ee6dfeb388cda4ebab02a9850115cc182c6bb687f60a"
+  },
+  {
+    "path": "media/news/nightwish-greatest-30-years-2026.jpg",
+    "bytes": 566678,
+    "sha256": "72b499e94559035a3ebf351bd48593a6f46e3f0dde4e73149bee3fa059dd9b72"
+  },
+  {
+    "path": "media/news/nightwish-six-songs-new-album-2026.webp",
+    "bytes": 63104,
+    "sha256": "50755fd50804a0a887988637c1fea00353719e6a0e4c38cdc97c13d3f0e69491"
+  },
+  {
+    "path": "media/news/norther-reunion-wacken-2027.jpg",
+    "bytes": 33747,
+    "sha256": "2078890f4521659d191171b61c26b36626e8fa40c45fc2b70e0bbf13df43714f"
+  },
+  {
+    "path": "media/news/oasis-live-27.jpg",
+    "bytes": 100215,
+    "sha256": "3bcbe7fa4140631181b7c955e35a6898a6f156434809031c964606f7d111de57"
+  },
+  {
+    "path": "media/news/ozzfest-2027-villa-park.jpg",
+    "bytes": 82035,
+    "sha256": "0b278d7bc9c1d67184ee20c8df84c2630535618270132924f2207cf1531a7ada"
+  },
+  {
+    "path": "media/news/ozzfest-villa-park-2027.jpg",
+    "bytes": 126157,
+    "sha256": "32ef020b96c76314d3d25f55b323993cd265f18166ba5f039f8728bb44b52135"
+  },
+  {
+    "path": "media/news/pain-i-dont-give-a-fukk-2026.jpg",
+    "bytes": 204,
+    "sha256": "0dcc0813d3624bb32ed5274dbf8c83e3e8f9951384e91328cdae6d10b42b4566"
+  },
+  {
+    "path": "media/news/pain-i-dont-give-a-fukk-2026.png",
+    "bytes": 2090081,
+    "sha256": "d5ad1197993043ccd8bc044b2c54c139978f330216e232120ab63352de9a8b7a"
+  },
+  {
+    "path": "media/news/peelingflesh-self-titled-2026-editorial.webp",
+    "bytes": 191118,
+    "sha256": "ddc6a056d15421c37234ada0eb4eed6f6d69bc8a3118aacaa99535835e7e5030"
+  },
+  {
+    "path": "media/news/permadeath-yokai-no-seki-2026.jpg",
+    "bytes": 112369,
+    "sha256": "fbed4bf9d9fc09cfef6a58069770b255fb7a7f185bc8c3cbee5fa7bc1e8858f0"
+  },
+  {
+    "path": "media/news/piorno-rock-xix-2026.jpg",
+    "bytes": 174855,
+    "sha256": "fc31af1467226d01cf0dc1e5d2fb35207192bc8e1c22898b481955f770d6f06a"
+  },
+  {
+    "path": "media/news/polyphia-be-not-afraid-2026.webp",
+    "bytes": 134520,
+    "sha256": "b049560714e495951a43456d599c4bb245d1e30a9d0a2ac190fb422a240fdfc5"
+  },
+  {
+    "path": "media/news/president-dark-heaven-2026.webp",
+    "bytes": 221216,
+    "sha256": "6efc0b73f584bcf60caa17db8378c5f2576caf1f12496af34ed41452b4195f12"
+  },
+  {
+    "path": "media/news/primus-recording-2026.jpg",
+    "bytes": 44581,
+    "sha256": "60171fdaa79727183d53998f66e4a8aae4fdb270545d3bf0d78a4dc45fe27636"
+  },
+  {
+    "path": "media/news/primus-the-ol-grizz-2026.webp",
+    "bytes": 37640,
+    "sha256": "412a6ab0e1a82970189863e4696c543e74c09109fbde7ee127ef5b318810c315"
+  },
+  {
+    "path": "media/news/prong-2026-rudy-de-doncker.jpg",
+    "bytes": 610198,
+    "sha256": "6a625845c9cfa0c0d3a1ca1a9d8b4d6924727f1a1dae09e720f4fae8cd017693"
+  },
+  {
+    "path": "media/news/purgatorian0-sigue-mirando-2026.png",
+    "bytes": 4074964,
+    "sha256": "c7c8281dddc924b522218f8a6fb9c9b07e25615c6d8cd5eb12e845a0f6a6d82b"
+  },
+  {
+    "path": "media/news/purgatorian0-tres-ruedas-un-corazon.jpg",
+    "bytes": 13941,
+    "sha256": "256a189131080b76ee8b19b6e5d4df1e71db45c2a4f2bd6d6cbebaf29122fc45"
+  },
+  {
+    "path": "media/news/purgatorian0-twitch-analitica-wacken-2026.png",
+    "bytes": 31935,
+    "sha256": "e89432ceea4963537dd157071223706ae1fa2e9a9b76f01c23fa9bb5b986c177"
+  },
+  {
+    "path": "media/news/purgatorian0-twitch-ultimo-stream-wacken-2026.png",
+    "bytes": 27378,
+    "sha256": "17bfeaa7626f02386e53bb6566fe403eb58c7167ed5e1da5a8ee54963fb43f44"
+  },
+  {
+    "path": "media/news/purgatorian0-wacken-2026.jpg",
+    "bytes": 1462988,
+    "sha256": "595425d3e9411e82392d3617bae3d59b558bb418d6e4ca14c4cfe44fe5e87b81"
+  },
+  {
+    "path": "media/news/purple-storm-2026.png",
+    "bytes": 566997,
+    "sha256": "2967511631c38d10478206eefa459fcdb1510d34228deaf45a54f5dbc64bea37"
+  },
+  {
+    "path": "media/news/qotsa-perfecth-album-2026.jpg",
+    "bytes": 202337,
+    "sha256": "ccd5a1b0c3778e31a0074116f95f55b73a20d6608486df498e8c981372e78d10"
+  },
+  {
+    "path": "media/news/qotsa-spain-2027/ilustracion-editorial.png",
+    "bytes": 3046856,
+    "sha256": "1bc5cb4feb780946f4c6a0896e68b52a0e9b36b7686483515045b5098ae066ae"
+  },
+  {
+    "path": "media/news/queen-budapest-4k-2026.jpg",
+    "bytes": 35490,
+    "sha256": "ace708a3eac9eb0beb9aacfc8bb7e9433d61e44db7e916af239ccddb1a7b6b42"
+  },
+  {
+    "path": "media/news/ram-against-spain-2026.jpg",
+    "bytes": 91526,
+    "sha256": "084846824d47f4148228ee6ec9357eff734aa79703d2d97c5ca6477300240c64"
+  },
+  {
+    "path": "media/news/rammstein-live-mexico-city-editorial.png",
+    "bytes": 2239587,
+    "sha256": "ceef795e191667c3075ede547d65530c5ef245e3d9958ac7c1fac140cc075b96"
+  },
+  {
+    "path": "media/news/raunchy-prisoner-2026-cover.jpg",
+    "bytes": 194461,
+    "sha256": "e38d5dc0516fb0f82c7364994bc2a36d3db93557d1a99a057a6a6472bd692fb8"
+  },
+  {
+    "path": "media/news/rebirth-fest-discerptus-vertebrae-2026.jpg",
+    "bytes": 71270,
+    "sha256": "7f25afcc61321639847d698d3b26265e8cbb0d75dcf6d1d0b1a89c0e753bebff"
+  },
+  {
+    "path": "media/news/renacimiento-noche-blanca-montilla-2026.webp",
+    "bytes": 159694,
+    "sha256": "9db771da09f6c47609dcf4ddc0ed2b20e818a2ea58bc5d8065684f55a226f5e5"
+  },
+  {
+    "path": "media/news/resurrection-fest-2027-built-to-last.png",
+    "bytes": 212841,
+    "sha256": "a4fe7a10ad693446a6a2781f2daef4907ac67b861f046eb43fdf43c15356a52e"
+  },
+  {
+    "path": "media/news/reveal-cybernetic-decay-2026.jpg",
+    "bytes": 48118,
+    "sha256": "4d14aa084e71b10734d6fa39b3768068f1dd9db20e7efe0e9f93e0722876cd70"
+  },
+  {
+    "path": "media/news/rise-against-katy-bar-living-undercover-2026.jpg",
+    "bytes": 16918,
+    "sha256": "5727d1084fe731bd24ccc1ab37b090d9ee5830582ae1e7591c769e5c1776a1e0"
+  },
+  {
+    "path": "media/news/ritchie-blackmore-deep-purple-reunion-editorial.webp",
+    "bytes": 167110,
+    "sha256": "468acface3fec059bb264cd592e5fd8c89b474f7e8be02e23834c447d49a62cb"
+  },
+  {
+    "path": "media/news/running-wild-wacken-final-live-2026.jpg",
+    "bytes": 31507,
+    "sha256": "32cee17b4a4983dfe1ecbb311f87a381137bdd2c7634874e8f9837af125cb556"
+  },
+  {
+    "path": "media/news/sabaton-berserker-2026/ilustracion-editorial.png",
+    "bytes": 2925802,
+    "sha256": "aac689013e66ef79dd6ec5add6c23d19fc49f138c7a07dde33144be8e433b99d"
+  },
+  {
+    "path": "media/news/saratoga-gira-en-estado-puro-2026.jpg",
+    "bytes": 86985,
+    "sha256": "01b3f1df7b854140a1ae655e7d81cb68874befa63b5260e79c9fb554ccb26824"
+  },
+  {
+    "path": "media/news/satanic-planet-dead-deities-2026.png",
+    "bytes": 2356102,
+    "sha256": "4e9c09e3bd375b2bce4cbb9931cbdcb8a98269557f48d4fcd698c5ddfd8cc8bf"
+  },
+  {
+    "path": "media/news/satchvai-sea-of-emotion-2026.png",
+    "bytes": 2318010,
+    "sha256": "42e9fa21e0986848d7480c6f8da6a65207516308433f05377437083168817d9a"
+  },
+  {
+    "path": "media/news/savatage-pompeii-orchestra-2026.jpg",
+    "bytes": 48308,
+    "sha256": "6f6426b4da76cf04c7f4ab9849594bbe0233c2ded095d010877c0d0e04cefea7"
+  },
+  {
+    "path": "media/news/saxon-gods-of-thunder-2027.png",
+    "bytes": 2619359,
+    "sha256": "06bf5946375e9562468247adc3158b6c21f5968b628411e776d02af4cf6b725d"
+  },
+  {
+    "path": "media/news/saxon-stone-music-merida-2027.jpg",
+    "bytes": 252034,
+    "sha256": "c6d5b2190eded7af66bd7e94fcecc1d4a7a08183e120bc4f8ce5b4f3f94c1326"
+  },
+  {
+    "path": "media/news/scorpions-spain-2027/ilustracion-editorial.png",
+    "bytes": 3406615,
+    "sha256": "67640fbc72fe7f67ce1280a59083e44bdc31a291bfa9e44dca2b7e03cc4adc0e"
+  },
+  {
+    "path": "media/news/serj-tankian-afraid-americans-2026.webp",
+    "bytes": 27448,
+    "sha256": "93be2ae7b58c3bc5d6d2288c66612ca53d5a7e402633d8778733b9d02b8ddf01"
+  },
+  {
+    "path": "media/news/shakra-espana-2026.jpg",
+    "bytes": 168272,
+    "sha256": "82114464dda53a930e26330ac5baef227815e73733d170b8a74993712d0baee5"
+  },
+  {
+    "path": "media/news/sheri-moon-zombie-i-love-my-robot.jpg",
+    "bytes": 45306,
+    "sha256": "6c14345f85cf0363d264d143ff1d56b845dd38ce19b9e0cace40bdf9ed27fbdb"
+  },
+  {
+    "path": "media/news/sigh-goh-ka-unputenpu-2026.jpg",
+    "bytes": 340491,
+    "sha256": "7ea15060985e168358ea279d3c954165fdcf18d15cc98d89e2020508e771e111"
+  },
+  {
+    "path": "media/news/silvertomb-interpretation-nightmares-2026.jpg",
+    "bytes": 114741,
+    "sha256": "279b7e0ff08a4fe19398199d0142ba0042d2b1ddc29c5d714b0ab70b1221bcb2"
+  },
+  {
+    "path": "media/news/silvertomb-interpretation-nightmares-2026.webp",
+    "bytes": 29768,
+    "sha256": "3d2d4e3fe77dca64a9c9621c05f8d7047714609975d2af02119b666d50920c21"
+  },
+  {
+    "path": "media/news/sinner-all-night-long-2026.png",
+    "bytes": 1357843,
+    "sha256": "24e9e39806d0b30cfdc3a25a20756a7a7f482c33016f2dabbdaa35c14d6f0df1"
+  },
+  {
+    "path": "media/news/skid-row-justin-sargent-2026/formacion-oficial.jpg",
+    "bytes": 391979,
+    "sha256": "276a63477576d0312410f4a62c2ddf7796d2336e120a2888997a561761ac57f8"
+  },
+  {
+    "path": "media/news/slaughter-koschei.jpg",
+    "bytes": 23165,
+    "sha256": "7fdd6c61d16e61709acf961804df6e37aca8f8596bc47e8212257fdab94533fc"
+  },
+  {
+    "path": "media/news/sleep-hempispheres-2026.png",
+    "bytes": 2597238,
+    "sha256": "b91670351f73abc0b87b06bdf080908e45ebb347f71abc597158b3abaff466c1"
+  },
+  {
+    "path": "media/news/slipknot-arsenal-2026.png",
+    "bytes": 2613899,
+    "sha256": "2dcbef1590e06117a86a2063acfb9eebf41938b24e5424cdd8ce92e0cd452985"
+  },
+  {
+    "path": "media/news/slipknot-sicest-stadium-tour-2027.png",
+    "bytes": 2520923,
+    "sha256": "19424e2532eb3217ffdd0d4679e0cf58ada788926a6e759757189cf0264780d5"
+  },
+  {
+    "path": "media/news/smoulder-witch-wife-alien-world-2026.jpg",
+    "bytes": 1002854,
+    "sha256": "849dac6dff3c170161c2947fe7e3e22d58cf7cb2979f81cd48258d6f42fa65c1"
+  },
+  {
+    "path": "media/news/solidaridad-toledo-2026.png",
+    "bytes": 2040527,
+    "sha256": "f4d174a0eaa67879a1373124f0d2c043f221fc7db6ff77cbd3cb19d586eff385"
+  },
+  {
+    "path": "media/news/soul-glo-na-im-gon-grab-allat-2027.png",
+    "bytes": 254727,
+    "sha256": "0309435e5752501f32b9463c9761d545feca58585cf8bc6eac6e8580b7dfc21f"
+  },
+  {
+    "path": "media/news/soundgarden-final-album-2026.jpg",
+    "bytes": 34293,
+    "sha256": "16b77c9d578a08d392c539fce1a401db0c7bc421ee39ccb75080d6f2ebc16549"
+  },
+  {
+    "path": "media/news/soundgarden-seahawks-halftime-2026.webp",
+    "bytes": 80042,
+    "sha256": "b3d588127b9144f74c1a6399b04f40579c3a331bfba60ee3fd90cf51378757d5"
+  },
+  {
+    "path": "media/news/steven-wilson-requiem-village.jpg",
+    "bytes": 961200,
+    "sha256": "869fd6b9f0f08beac68b85fa8e33cc8c834fd6eae71ef4f0c8b4d31c568d4aab"
+  },
+  {
+    "path": "media/news/storm-corrosion-segundo-album-2026.jpg",
+    "bytes": 32064,
+    "sha256": "8f684dcdbdd8b4298bdcb6f6f9adce32a97df3fb47497a5509498636d00a558f"
+  },
+  {
+    "path": "media/news/streamer-into-the-void-rock-all-around-2026.jpg",
+    "bytes": 144589,
+    "sha256": "b51b2e248cdba4abdc6020a9469b9f5aa4dc8273a0cd444725736031a10b81d1"
+  },
+  {
+    "path": "media/news/stryper-ashes-to-roses.jpg",
+    "bytes": 132761,
+    "sha256": "f876effa209c485bcd91a10d1d49cb21074625b1df28d9caa8dbc0232aac4cc8"
+  },
+  {
+    "path": "media/news/suicide-silence-spain-2027/ilustracion-editorial.png",
+    "bytes": 3200685,
+    "sha256": "91cb02c381c1bb2c9fc719f26ad2c52c8905035fb2fc0bd22e0c72cd9e665d08"
+  },
+  {
+    "path": "media/news/suicide-silence-tour-2026.jpg",
+    "bytes": 36402,
+    "sha256": "cf6804e662409d0dd2a771f38873fe27b07000c768aafd7d6b14426b7bd01157"
+  },
+  {
+    "path": "media/news/system-of-a-down-faith-no-more-2027.jpg",
+    "bytes": 644828,
+    "sha256": "0373dd7b540a30b206b9948e01064a5acdee58e82d4c500a2a87d3c5e1fe3a93"
+  },
+  {
+    "path": "media/news/system-of-a-down-toxicity-25-2026.png",
+    "bytes": 2252034,
+    "sha256": "810285b1effe8f89483c551ade367acf297ba520c1a2fa581c0b765dda4ace0b"
+  },
+  {
+    "path": "media/news/tank-filth-hounds-deluxe.jpg",
+    "bytes": 13224,
+    "sha256": "eeebf492eb7c274d1f94cbadc0cd6169f960ea5088d4f297042f5dc43e5fc675"
+  },
+  {
+    "path": "media/news/temic-ceiba-2026.jpg",
+    "bytes": 148913,
+    "sha256": "d2f1cf396ef7e4f276693c103ef8729115c83085f7173a1ead3f2fb5beeaaf0a"
+  },
+  {
+    "path": "media/news/the-buyakers-mahounaneos-ciudad-real-2026.jpg",
+    "bytes": 165354,
+    "sha256": "b5a5a620ac8fbbe5373d3f58950737def66bc621d0f842dd3f648bd15ea3eb54"
+  },
+  {
+    "path": "media/news/the-flower-kings-hope-2026.jpg",
+    "bytes": 150551,
+    "sha256": "618eea58b4c1fd99e1179d36953a70028b8dc516bd1707c6f0f3992c76ef1ceb"
+  },
+  {
+    "path": "media/news/the-interrupters-spain-2027.jpg",
+    "bytes": 488089,
+    "sha256": "a6ae0dd0cc8ac9043d6b5c79090b59c1c9718605713e4340dd0375f8c783fc0d"
+  },
+  {
+    "path": "media/news/the-night-eternal-veins-of-time.jpg",
+    "bytes": 13825,
+    "sha256": "4eea70dd1430658475af9e1138c2b4874079d616a7e7ac654efb66ed95dfc51c"
+  },
+  {
+    "path": "media/news/the-ocean-solaris-spain-2027.webp",
+    "bytes": 217402,
+    "sha256": "8f41442a1ae522440233375aba4157c2b2ee304ad4b03d603693be8d9d862d8d"
+  },
+  {
+    "path": "media/news/the-pineapple-thief-spain-2027.jpg",
+    "bytes": 45069,
+    "sha256": "195ebfd96e1469c2fdd8ea87383115842eaf2712e891dd14759ccf71ac3424c0"
+  },
+  {
+    "path": "media/news/the-warning-everythings-falling-2026.png",
+    "bytes": 912537,
+    "sha256": "d320f4c4bec724ddbf8e97a139c15809a83aab8d630c0e73929ca07f1409fddb"
+  },
+  {
+    "path": "media/news/the-warning-spain-2027.webp",
+    "bytes": 186356,
+    "sha256": "3958983a930987d76fea6e550cbd091e422172a54447d31b3f2b79ce0cac1c0c"
+  },
+  {
+    "path": "media/news/thundermother-mothers-of-thunder-2027.webp",
+    "bytes": 423270,
+    "sha256": "bdfe126c86e90d86d09651f957afa2d3944444a524fe68eded2013058a42ce55"
+  },
+  {
+    "path": "media/news/till-lindemann-world-tour-2027-poster.jpg",
+    "bytes": 156034,
+    "sha256": "649e9783254d6bfb8203c24d484f133b8290cf5544f3239b4f14853690f4a3c3"
+  },
+  {
+    "path": "media/news/till-lindemann-world-tour-2027.jpg",
+    "bytes": 220800,
+    "sha256": "ad25f6c55d20d2d20ebb7cea1925129a3154b6c0ecd29eb75ee74648ea331f06"
+  },
+  {
+    "path": "media/news/tom-morello-date-night-2026.jpg",
+    "bytes": 40855,
+    "sha256": "61a3a16ae10474c9655f790565dfda1b38de0fc3ca2a97addc55ce18cb319da7"
+  },
+  {
+    "path": "media/news/tony-iommi-from-the-dark-2026.jpg",
+    "bytes": 46655,
+    "sha256": "f02be40e262b6e6b15f1efdebedd4550693dba43c3272df6ffaf73d519e5eca0"
+  },
+  {
+    "path": "media/news/tony-iommi-william-shatner-heavy-metal-2026.jpg",
+    "bytes": 36002,
+    "sha256": "ad59b4345425415a28a59643cc4c41c480f39be8599969e0b1f9045180072e1c"
+  },
+  {
+    "path": "media/news/trivium-crown-in-the-grave-2026.webp",
+    "bytes": 219830,
+    "sha256": "6da86ade2eacdbbc75ab44434fa6cd4b5403e6e1c004500a64e2d1c6ce585470"
+  },
+  {
+    "path": "media/news/trivium-tour-2026.jpg",
+    "bytes": 53604,
+    "sha256": "882d46bb541df5f2741e8b833503887bbe98b6df0ac8166ec28ab166b3d9eb42"
+  },
+  {
+    "path": "media/news/unless-sun-gone-low-2026.jpg",
+    "bytes": 228630,
+    "sha256": "e14a947886650dd6b1e5cbaf2c381c4ef42dc4b37f313eec54f6d034b5f46e82"
+  },
+  {
+    "path": "media/news/vinodium-band.jpg",
+    "bytes": 149592,
+    "sha256": "2bcfc6419a014c8f79d8d9f61ff1e57e1d352728fee9a8b775e00ca3c629b1d2"
+  },
+  {
+    "path": "media/news/wacken-2026-sold-out.jpg",
+    "bytes": 481414,
+    "sha256": "044aef789a03f7e2fc7897aab39ff60abf9f91b28da61ec6c1b76646ebf03712"
+  },
+  {
+    "path": "media/news/wacken-streaming-2026.jpg",
+    "bytes": 262473,
+    "sha256": "016c3740ff08fc7ab7740e713f29a41feb1453c963f0ff0c02aa18b173f42e84"
+  },
+  {
+    "path": "media/news/wargasm-get-down-2026.jpg",
+    "bytes": 140998,
+    "sha256": "e7a3d8ddcdac35fc07539319f72272da83935b3970678b3addcc96a2c340f7c7"
+  },
+  {
+    "path": "media/news/wasp-nueva-musica-2026.jpg",
+    "bytes": 41363,
+    "sha256": "e54b9d92a5de811039f24ad7db32e205ad5e7f42c0f0e2e265e8e4d6b184fe8d"
+  },
+  {
+    "path": "media/news/waylander-mac-tire-2026.png",
+    "bytes": 2418697,
+    "sha256": "cc4e3ede41c777726ef3808f1ba7fb429e291524371951df46f98c3ab7bf897a"
+  },
+  {
+    "path": "media/news/wednesday-13-i-want-you-dead.jpg",
+    "bytes": 532204,
+    "sha256": "53ae6bb6f1e5160ad48ab3b111deb581fd39eb8af30d465695c22c387ed686f7"
+  },
+  {
+    "path": "media/news/wednesday-13-un-alive-2026.jpg",
+    "bytes": 214646,
+    "sha256": "889a8139a2dcc253135ebe7f5460f60018b9679e3486bbf185f2acfb5ec74ba6"
+  },
+  {
+    "path": "media/news/whiplash-roar-press-2026.jpg",
+    "bytes": 78869,
+    "sha256": "b4ce981f10caba5dcacda4e49402caf19c266c86d83ad207a384f7279c54415c"
+  },
+  {
+    "path": "media/news/within-temptation-new-album-2026.jpg",
+    "bytes": 47562,
+    "sha256": "26af2861211ef66fdff803f30d48dbfdba6452f9872964c6cddb2089c26c8ba7"
+  },
+  {
+    "path": "media/news/wolves-in-the-throne-room-estuary-2026.jpg",
+    "bytes": 532613,
+    "sha256": "b5a5776e335f77278e0f9457704fb3d5c54020ec25a00760cc98c5126cd9bbf2"
+  },
+  {
+    "path": "media/news/xentrix-allied-with-the-enemy-2026.png",
+    "bytes": 2398832,
+    "sha256": "6c7b24139d6bc960442109439eaff782d357695d49b79af78ccf8cb9d327533b"
+  },
+  {
+    "path": "media/news/xtasy-phoenix-tour-spain-2026.png",
+    "bytes": 1327743,
+    "sha256": "a8e9cb5e88b8cb0d0519ed2055d00e398804673099ff8dc252513647d0814c49"
+  },
+  {
+    "path": "media/news/yngwie-hell-or-high-water-2026.png",
+    "bytes": 2528946,
+    "sha256": "b93cd26a116fa32ab5ab89277d8d9ef09ebeab282dd67300641497b7d864ee76"
+  },
+  {
+    "path": "media/news/young-medicine-buried-underneath-alt.jpg",
+    "bytes": 1159472,
+    "sha256": "5e990af2069ad3d6a76cfe2a25bab0371eeff4bd3e83997701d9992851896935"
+  },
+  {
+    "path": "media/news/young-medicine-buried-underneath.jpg",
+    "bytes": 1159472,
+    "sha256": "5e990af2069ad3d6a76cfe2a25bab0371eeff4bd3e83997701d9992851896935"
+  },
+  {
+    "path": "media/news/young-medicine-official.jpg",
+    "bytes": 247861,
+    "sha256": "6a611abd68bba9acf1f6b0f4a74fea1c9d806156f6c886b941b117ea2588160c"
+  },
+  {
+    "path": "media/news/z-live-2027-primeras-bandas.jpg",
+    "bytes": 2450370,
+    "sha256": "ccb6bd08547bc3f1c26103b20beae9d8919f5910a0077f1d0f6d4f83a33471ef"
+  },
+  {
+    "path": "media/news/z-live-2027-update/battle-beast.jpg",
+    "bytes": 62593,
+    "sha256": "b492f44616eada2dc5620960c89dfcd7d4a900fa580ab48d81d5dae9a7e7c7c9"
+  },
+  {
+    "path": "media/news/z-live-2027-update/symphony-x.jpg",
+    "bytes": 65531,
+    "sha256": "027b543ef1591b25d353e11602a7d6a42cfa1e2836226633a62ae2d56f40e01f"
+  },
+  {
+    "path": "media/news/zotal-fascistis-aguda-2026.jpg",
+    "bytes": 154779,
+    "sha256": "e5646253aeba9bd5bf795385ccf22adb5fc1b8d86d5137bc633c558752139343"
+  },
+  {
+    "path": "media/news/zurbaran-rock-2027/cartel-provisional-oficial.webp",
+    "bytes": 200118,
+    "sha256": "5ac6da4329f48a68a20a8a984a808005088c90859e06c51a4bd166bdf56e76a6"
+  },
+  {
+    "path": "media/noticias/the-dead-daisies-kelly-hansen-2026.jpg",
+    "bytes": 557304,
+    "sha256": "f7b2ac692aacd606876f0f3229ef6d784faf5b254d3f7b1d992a72bbc9754f37"
+  },
+  {
+    "path": "media/ui/mascota-rafabrasas-contador.webp",
+    "bytes": 103502,
+    "sha256": "aefcb9287d1fa8c59e403e8b1fe22db62982c71ad6eaa589f81e0232d34693d5"
+  },
+  {
+    "path": "media/news/meshuggah-2027/editorial.png",
+    "bytes": 3259818,
+    "sha256": "3077dffd5a6fafbdd120962145987fcc0d7b1df94f6de5a3b017edf6984f9c57"
+  }
+]

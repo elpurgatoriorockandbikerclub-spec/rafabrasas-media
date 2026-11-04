@@ -1,0 +1,38 @@
+name: Deploy approved Rafabrasas media
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'brand/**'
+      - 'media/**'
+      - 'approved.json'
+      - 'index.html'
+      - 'scripts/verify.mjs'
+      - '.github/workflows/deploy.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: rafabrasas-media-production
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify and stage the complete approved catalog
+        run: node scripts/verify.mjs stage
+      - name: Deploy static files to existing Cloudflare Pages Free project
+        env:
+          CLOUDFLARE_ACCOUNT_ID: a34ea21ad5b6b29ab7b635c3d97cf4c2
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: npx --yes wrangler@4.92.0 pages deploy .pages-stage --project-name=rafabrasas-media --branch=main
