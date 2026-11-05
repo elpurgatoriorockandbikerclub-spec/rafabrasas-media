@@ -2743,5 +2743,10 @@
     "path": "media/news/iron-maiden-graphic-album-2027.jpg",
     "bytes": 561422,
     "sha256": "0c850891a0e0375f48f46440a98300dac37a532f97a051b9a83419287cf58d63"
+  },
+  {
+    "path": "media/news/leo-jimenez-laberintos-2026.jpg",
+    "bytes": 77725,
+    "sha256": "856122fac3d50e7a31444ca1bef52303b78518496ba0e0caf2b1cd7ab9fbddd0"
   }
 ]
