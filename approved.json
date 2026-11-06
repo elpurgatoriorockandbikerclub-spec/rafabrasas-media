@@ -2768,5 +2768,10 @@
     "path": "media/ui/mascota-rafabrasas-contador.webp",
     "bytes": 103502,
     "sha256": "aefcb9287d1fa8c59e403e8b1fe22db62982c71ad6eaa589f81e0232d34693d5"
+  },
+  {
+    "path": "media/barbacoa/salmon-acero-plancha-2026.jpg",
+    "bytes": 403880,
+    "sha256": "5e39899db025428d2627bdd82f9278df8924ee018dfd133f3f010296dc90c164"
   }
 ]
