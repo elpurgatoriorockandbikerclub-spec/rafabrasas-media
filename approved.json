@@ -350,6 +350,16 @@
     "sha256": "ccb6bd08547bc3f1c26103b20beae9d8919f5910a0077f1d0f6d4f83a33471ef"
   },
   {
+    "path": "media/barbacoa-contramuslos-cajun.png",
+    "bytes": 2930558,
+    "sha256": "ace54b3a3485ed856b883f0d7192934be823262d193083534219c54a017a8459"
+  },
+  {
+    "path": "media/barbacoa-costillas-cerveza-negra.png",
+    "bytes": 2476258,
+    "sha256": "c6b73672cea89bcc1bbd1f7ecc9c6971391468e789731d0a193566a98a1b2bc4"
+  },
+  {
     "path": "media/barbacoa/chuletas-cafe-ancho-pina.webp",
     "bytes": 268044,
     "sha256": "d8122bb0d50f130990b7fb709c914fc335959cce9eead8998b1af0082ae5e1f7"
@@ -428,16 +438,6 @@
     "path": "media/barbacoa/ternera-satay-thrash-2026.webp",
     "bytes": 311772,
     "sha256": "680fa7347d11008dd32bba834a52bcde25cbd500d1293daac4424c978fc64910"
-  },
-  {
-    "path": "media/barbacoa-contramuslos-cajun.png",
-    "bytes": 2930558,
-    "sha256": "ace54b3a3485ed856b883f0d7192934be823262d193083534219c54a017a8459"
-  },
-  {
-    "path": "media/barbacoa-costillas-cerveza-negra.png",
-    "bytes": 2476258,
-    "sha256": "c6b73672cea89bcc1bbd1f7ecc9c6971391468e789731d0a193566a98a1b2bc4"
   },
   {
     "path": "media/brasero/aaron-stainthorpe-my-dying-bride-2026.jpg",
@@ -1780,6 +1780,11 @@
     "sha256": "64e501bc8e26f2eaf6e5530f03e613ab879060b5766498d5fdf590aaf6ab685b"
   },
   {
+    "path": "media/news/iron-maiden-graphic-album-2027.jpg",
+    "bytes": 561422,
+    "sha256": "0c850891a0e0375f48f46440a98300dac37a532f97a051b9a83419287cf58d63"
+  },
+  {
     "path": "media/news/iron-maiden-north-america-2027.jpg",
     "bytes": 830795,
     "sha256": "6e62cba9d34699fbc37cf9f6b78b770cce248de74427a20b76255d037dd7cece"
@@ -1898,6 +1903,11 @@
     "path": "media/news/led-zeppelin-bath-1970-poster-oficial.webp",
     "bytes": 40486,
     "sha256": "5f662ee141db30eec8ac088b01228c126d477c5a038a76b7463d4cad9ccb1ef4"
+  },
+  {
+    "path": "media/news/leo-jimenez-laberintos-2026.jpg",
+    "bytes": 77725,
+    "sha256": "856122fac3d50e7a31444ca1bef52303b78518496ba0e0caf2b1cd7ab9fbddd0"
   },
   {
     "path": "media/news/leyendas-del-rock-2027-primer-cartel.jpg",
@@ -2073,6 +2083,11 @@
     "path": "media/news/mental-cruelty-echoes-forlorn-land-2026.jpg",
     "bytes": 171520,
     "sha256": "835686dff507c6855c375428681a19de9df5df38fd48107029ab03876c9aac56"
+  },
+  {
+    "path": "media/news/meshuggah-2027/editorial.png",
+    "bytes": 3259818,
+    "sha256": "3077dffd5a6fafbdd120962145987fcc0d7b1df94f6de5a3b017edf6984f9c57"
   },
   {
     "path": "media/news/messa-band-2026.jpg",
@@ -2725,6 +2740,11 @@
     "sha256": "5ac6da4329f48a68a20a8a984a808005088c90859e06c51a4bd166bdf56e76a6"
   },
   {
+    "path": "media/noticias/resurrection-fest-2027-primeras-72-bandas.jpg",
+    "bytes": 418881,
+    "sha256": "f3e85e6430380672f221c874b0a64ebc3008f24f47312fd24b989a84ab3cbc10"
+  },
+  {
     "path": "media/noticias/the-dead-daisies-kelly-hansen-2026.jpg",
     "bytes": 557304,
     "sha256": "f7b2ac692aacd606876f0f3229ef6d784faf5b254d3f7b1d992a72bbc9754f37"
@@ -2733,21 +2753,5 @@
     "path": "media/ui/mascota-rafabrasas-contador.webp",
     "bytes": 103502,
     "sha256": "aefcb9287d1fa8c59e403e8b1fe22db62982c71ad6eaa589f81e0232d34693d5"
-  },
-  {
-    "path": "media/news/meshuggah-2027/editorial.png",
-    "bytes": 3259818,
-    "sha256": "3077dffd5a6fafbdd120962145987fcc0d7b1df94f6de5a3b017edf6984f9c57"
-  },
-  {
-    "path": "media/news/iron-maiden-graphic-album-2027.jpg",
-    "bytes": 561422,
-    "sha256": "0c850891a0e0375f48f46440a98300dac37a532f97a051b9a83419287cf58d63"
-  },
-  {
-    "path": "media/news/leo-jimenez-laberintos-2026.jpg",
-    "bytes": 77725,
-    "sha256": "856122fac3d50e7a31444ca1bef52303b78518496ba0e0caf2b1cd7ab9fbddd0"
   }
 ]
-
