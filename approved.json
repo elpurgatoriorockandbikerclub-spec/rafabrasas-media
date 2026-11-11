@@ -2773,5 +2773,15 @@
     "path": "media/barbacoa/salmon-acero-plancha-2026.jpg",
     "bytes": 403880,
     "sha256": "5e39899db025428d2627bdd82f9278df8924ee018dfd133f3f010296dc90c164"
+  },
+  {
+    "path": "media/news/2026-11-11/staind-watch-me-break.jpg",
+    "bytes": 138893,
+    "sha256": "2c54f4d0b970a3dd5c1682802082d90526289ebae17da1cc04b9ad25ae4c8047"
+  },
+  {
+    "path": "media/news/2026-11-11/cyhra-venom.jpg",
+    "bytes": 94652,
+    "sha256": "5f089a9549b20d6e4bfd9f064d484fd52c301b24e9b13d9a37c831ac064539f6"
   }
 ]
