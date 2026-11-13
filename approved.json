@@ -2793,5 +2793,10 @@
     "path": "media/news/tesseract-obscura.jpg",
     "bytes": 88026,
     "sha256": "053951fe5728a61fc076f7793ebce46ce370c76bb6524312efba9d4260627513"
+  },
+  {
+    "path": "media/news/revocation-espana-2027.jpg",
+    "bytes": 310378,
+    "sha256": "8f549999ca5934259694a57f86c5c01650beb9007bc1ba67a38e6550b44886fc"
   }
 ]
