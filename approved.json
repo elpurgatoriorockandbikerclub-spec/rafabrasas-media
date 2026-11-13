@@ -2798,5 +2798,8 @@
     "path": "media/news/revocation-espana-2027.jpg",
     "bytes": 310378,
     "sha256": "8f549999ca5934259694a57f86c5c01650beb9007bc1ba67a38e6550b44886fc"
-  }
+  },
+{"path":"media/news/walls-of-jericho-system-error-humanity-2026.jpg","bytes":776306,"sha256":"7497d0f37a4ca1be9a3b97b3aa0d1bc5e5082d9810c531bc432076d989bbdf43"},
+{"path":"media/news/u2-carnaval-de-luz-2026.jpg","bytes":1267099,"sha256":"4944e932428d8d732631c4cacf3c62848c53dc61190372d002bb860c4565cc2b"},
+{"path":"media/barbacoa/pollo-parrilla-chimichurri-boniato-2026.png","bytes":2811320,"sha256":"7e6730297bf21273dce44a08a1e2f2d2eee9ea561a0ea6994257d52848e91de2"}
 ]
