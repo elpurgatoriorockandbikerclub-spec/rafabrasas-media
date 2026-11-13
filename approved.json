@@ -2783,5 +2783,15 @@
     "path": "media/news/2026-11-11/cyhra-venom.jpg",
     "bytes": 94652,
     "sha256": "5f089a9549b20d6e4bfd9f064d484fd52c301b24e9b13d9a37c831ac064539f6"
+  },
+  {
+    "path": "media/news/download-2027.jpg",
+    "bytes": 471185,
+    "sha256": "0fbd36e64db5be4472784be5fec6586e29599e9f3a194e5f847343a99565a4f4"
+  },
+  {
+    "path": "media/news/tesseract-obscura.jpg",
+    "bytes": 88026,
+    "sha256": "053951fe5728a61fc076f7793ebce46ce370c76bb6524312efba9d4260627513"
   }
 ]
