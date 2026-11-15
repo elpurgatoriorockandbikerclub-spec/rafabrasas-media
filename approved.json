@@ -2824,5 +2824,6 @@
     "bytes": 131158,
     "sha256": "ef35ab741f381a028344bc88b15e53aa309d8ba9f28bfd538e3a2d40f2784cd5"
   },
-  {"path": "media/news/iberia-festival-porretas-2027.webp", "bytes": 314926, "sha256": "67d15724c1efa09dda60b53eec75e5e9f2619a4eb90785b4c839d7164dad1a17"}
+  {"path": "media/news/iberia-festival-porretas-2027.webp", "bytes": 314926, "sha256": "67d15724c1efa09dda60b53eec75e5e9f2619a4eb90785b4c839d7164dad1a17"},
+  {"path": "media/news/graspop-2027-cartel.webp", "bytes": 520446, "sha256": "6fafd6a52810ffff3e0d6ec881f29f6b53f116a9ecc06caf1fc423f8eb63ab59"}
 ]
