@@ -2828,5 +2828,6 @@
   {"path": "media/news/graspop-2027-cartel.webp", "bytes": 520446, "sha256": "6fafd6a52810ffff3e0d6ec881f29f6b53f116a9ecc06caf1fc423f8eb63ab59"},
   {"path": "media/metal-games/journey-1983-bally-midway-flyer-front.jpg", "bytes": 472987, "sha256": "014e3bddf7c261e71b633a1267c57ddf23e54db8ea858ba60591381fe87546b0"},
   {"path": "media/brasero/nuclear-assault-handle-with-care.webp", "bytes": 112618, "sha256": "0d7a21e119d4a651a430487af198166c2464fe55a131f2f0eabfa55f1845c873"},
-  {"path": "media/news/sick-brains-live-rock-blues-2026.webp", "bytes": 140974, "sha256": "47198bde12a6d5ede5bfcbcdf6725781948fe40011d61dbf71b49e8565faed7c"}
+  {"path": "media/news/sick-brains-live-rock-blues-2026.webp", "bytes": 140974, "sha256": "47198bde12a6d5ede5bfcbcdf6725781948fe40011d61dbf71b49e8565faed7c"},
+  {"path": "media/news/underoath-espana-2027.webp", "bytes": 328710, "sha256": "7957984264512b4b8c0c4666a57c747225c5431ecf6d642dba7467573995dab8"}
 ]
