@@ -1,5 +1,10 @@
 [
   {
+    "path": "media/news/robe-sello-correos-2026.jpg",
+    "bytes": 131158,
+    "sha256": "ef35ab741f381a028344bc88b15e53aa309d8ba9f28bfd538e3a2d40f2784cd5"
+  },
+  {
     "path": "brand/rafabrasas-skull.png",
     "bytes": 1489164,
     "sha256": "c48818a193257825ac2f88caea0809866bb77c5765f534453dae6b849b0c8033"
@@ -2820,17 +2825,53 @@
     "sha256": "ddd450bd24dde07e4afee96bbe559678f7527dd696f1360a190ef551689d3694"
   },
   {
-    "path": "media/news/robe-sello-correos-2026.jpg",
-    "bytes": 131158,
-    "sha256": "ef35ab741f381a028344bc88b15e53aa309d8ba9f28bfd538e3a2d40f2784cd5"
+    "path": "media/news/iberia-festival-porretas-2027.webp",
+    "bytes": 314926,
+    "sha256": "67d15724c1efa09dda60b53eec75e5e9f2619a4eb90785b4c839d7164dad1a17"
   },
-  {"path": "media/news/iberia-festival-porretas-2027.webp", "bytes": 314926, "sha256": "67d15724c1efa09dda60b53eec75e5e9f2619a4eb90785b4c839d7164dad1a17"},
-  {"path": "media/news/graspop-2027-cartel.webp", "bytes": 520446, "sha256": "6fafd6a52810ffff3e0d6ec881f29f6b53f116a9ecc06caf1fc423f8eb63ab59"},
-  {"path": "media/metal-games/journey-1983-bally-midway-flyer-front.jpg", "bytes": 472987, "sha256": "014e3bddf7c261e71b633a1267c57ddf23e54db8ea858ba60591381fe87546b0"},
-  {"path": "media/brasero/nuclear-assault-handle-with-care.webp", "bytes": 112618, "sha256": "0d7a21e119d4a651a430487af198166c2464fe55a131f2f0eabfa55f1845c873"},
-  {"path": "media/news/sick-brains-live-rock-blues-2026.webp", "bytes": 140974, "sha256": "47198bde12a6d5ede5bfcbcdf6725781948fe40011d61dbf71b49e8565faed7c"},
-  {"path": "media/news/underoath-espana-2027.webp", "bytes": 328710, "sha256": "7957984264512b4b8c0c4666a57c747225c5431ecf6d642dba7467573995dab8"},
-  {"path": "media/news/queen-thank-god-christmas-again.webp", "bytes": 121468, "sha256": "145e0e73845d9c61fc599ce490ba06765c1d58ddc727b4f81fd5b6d0c29370f2"},
-  {"path": "media/news/kerry-king-end-of-all-gods-2027.webp", "bytes": 121668, "sha256": "6854c334d4846a78bc7d98989be030255d6496be6e54cafc5e5775dcc50669c7"},
-  {"path": "media/news/november-metal-fest-2026.webp", "bytes": 246526, "sha256": "f3f2865da163bcf8b83437283e09f79ed5c99dd227108dd85b748a13641fd87b"}
+  {
+    "path": "media/news/graspop-2027-cartel.webp",
+    "bytes": 520446,
+    "sha256": "6fafd6a52810ffff3e0d6ec881f29f6b53f116a9ecc06caf1fc423f8eb63ab59"
+  },
+  {
+    "path": "media/metal-games/journey-1983-bally-midway-flyer-front.jpg",
+    "bytes": 472987,
+    "sha256": "014e3bddf7c261e71b633a1267c57ddf23e54db8ea858ba60591381fe87546b0"
+  },
+  {
+    "path": "media/brasero/nuclear-assault-handle-with-care.webp",
+    "bytes": 112618,
+    "sha256": "0d7a21e119d4a651a430487af198166c2464fe55a131f2f0eabfa55f1845c873"
+  },
+  {
+    "path": "media/news/sick-brains-live-rock-blues-2026.webp",
+    "bytes": 140974,
+    "sha256": "47198bde12a6d5ede5bfcbcdf6725781948fe40011d61dbf71b49e8565faed7c"
+  },
+  {
+    "path": "media/news/underoath-espana-2027.webp",
+    "bytes": 328710,
+    "sha256": "7957984264512b4b8c0c4666a57c747225c5431ecf6d642dba7467573995dab8"
+  },
+  {
+    "path": "media/news/queen-thank-god-christmas-again.webp",
+    "bytes": 121468,
+    "sha256": "145e0e73845d9c61fc599ce490ba06765c1d58ddc727b4f81fd5b6d0c29370f2"
+  },
+  {
+    "path": "media/news/kerry-king-end-of-all-gods-2027.webp",
+    "bytes": 121668,
+    "sha256": "6854c334d4846a78bc7d98989be030255d6496be6e54cafc5e5775dcc50669c7"
+  },
+  {
+    "path": "media/news/november-metal-fest-2026.webp",
+    "bytes": 246526,
+    "sha256": "f3f2865da163bcf8b83437283e09f79ed5c99dd227108dd85b748a13641fd87b"
+  },
+  {
+    "path": "media/news/bruce-dickinson-speaking-in-tongues-2026.jpg",
+    "bytes": 108059,
+    "sha256": "33c7f2a197abb7e46d0b8aafa60cddcee20ca2297bf30e65982781cd50064d57"
+  }
 ]
