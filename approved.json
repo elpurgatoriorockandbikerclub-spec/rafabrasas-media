@@ -2873,5 +2873,10 @@
     "path": "media/news/bruce-dickinson-speaking-in-tongues-2026.jpg",
     "bytes": 108059,
     "sha256": "33c7f2a197abb7e46d0b8aafa60cddcee20ca2297bf30e65982781cd50064d57"
+  },
+  {
+    "path": "media/metal-games/journey-escape-1982-atari2600-na-cover.jpg",
+    "bytes": 1076231,
+    "sha256": "031e719d3c28285214bca66c97c12f64dacac59713974a8268907c6b8d9010d2"
   }
 ]
