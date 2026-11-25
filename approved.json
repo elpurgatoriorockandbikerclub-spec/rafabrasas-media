@@ -2908,5 +2908,20 @@
     "path": "media/news/mastodon-poisonous-weapons-espana-2027.jpg",
     "bytes": 230304,
     "sha256": "7a94a265b73ceba6f3511ad9ef11aedc6f1035f36d470b0c1e687e874ce69b35"
+  },
+  {
+    "path": "media/news/anthrax-kerry-king-sacred-reich-espana-2027.jpg",
+    "bytes": 245682,
+    "sha256": "b107e62b93456ae97044b7e43dca9ee32618d9d24d369a185c0eb173bd79a15e"
+  },
+  {
+    "path": "media/news/barcelona-rock-fest-2027-noviembre.jpg",
+    "bytes": 29993,
+    "sha256": "8475656629ad935f8933ef96fb85f99d274344cf5c3611bb4884d99250603053"
+  },
+  {
+    "path": "media/news/edguy-barcelona-rock-fest-2027.webp",
+    "bytes": 53268,
+    "sha256": "473d39cdbef62756bc0876ea1fa1b843904aceefc029082c5eb7efc69bb584a7"
   }
 ]
