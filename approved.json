@@ -2923,5 +2923,15 @@
     "path": "media/news/edguy-barcelona-rock-fest-2027.webp",
     "bytes": 53268,
     "sha256": "473d39cdbef62756bc0876ea1fa1b843904aceefc029082c5eb7efc69bb584a7"
+  },
+  {
+    "path": "media/news/samael-europa-2026.jpg",
+    "bytes": 184092,
+    "sha256": "3f4707e0d83b726e60d307eef1b122ef8ab8992236cf42a1062acf1ca46f04b3"
+  },
+  {
+    "path": "media/news/harem-scarem-rise-wreckage-2027.jpg",
+    "bytes": 61202,
+    "sha256": "36ae5f6d2546d6a84cb11963789004b24f8f92386dd7d074eb7afd29bfba27ae"
   }
 ]
