@@ -2903,5 +2903,10 @@
     "path": "media/news/killer-clan-eat-the-world-2026/photo-3.jpg",
     "bytes": 859853,
     "sha256": "158bdb4e4dae2f0a917b501e116c74afdd96ed4c6e88e939c99fc99fc4f864b5"
+  },
+  {
+    "path": "media/news/mastodon-poisonous-weapons-espana-2027.jpg",
+    "bytes": 230304,
+    "sha256": "7a94a265b73ceba6f3511ad9ef11aedc6f1035f36d470b0c1e687e874ce69b35"
   }
 ]
