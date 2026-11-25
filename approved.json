@@ -2893,5 +2893,15 @@
     "path": "media/news/sweden-rock-greta-van-fleet-2027.png",
     "bytes": 4661794,
     "sha256": "6f073165ac243ae6e1abb7edc2788b2861c3fd09d007f79e46bdf214e85b9106"
+  },
+  {
+    "path": "media/news/killer-clan-eat-the-world-2026/photo-2.jpg",
+    "bytes": 548864,
+    "sha256": "f1af462cf12a78591f071845fa9842cdb7fe05a83bedf9e4c00649e9985340d8"
+  },
+  {
+    "path": "media/news/killer-clan-eat-the-world-2026/photo-3.jpg",
+    "bytes": 859853,
+    "sha256": "158bdb4e4dae2f0a917b501e116c74afdd96ed4c6e88e939c99fc99fc4f864b5"
   }
 ]
