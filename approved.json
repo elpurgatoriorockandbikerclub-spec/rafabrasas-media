@@ -2953,5 +2953,15 @@
     "path": "media/news/andy-taylor-duran-archivo-2026.jpg",
     "bytes": 60640,
     "sha256": "71489cff9c448de925ba392f4d694a8697f1e61ebed0d3855c59718d5d130d6e"
+  },
+  {
+    "path": "media/news/stryper-the-greatest-gift-of-all.png",
+    "bytes": 328280,
+    "sha256": "6be6e11c2bd509e033211487b2330eb91caae0baa3013cf6b577070f82763e09"
+  },
+  {
+    "path": "media/news/evil-invaders-weaponized-chaos-2027.jpg",
+    "bytes": 144954,
+    "sha256": "161a098558dfd0b9457dadde739dd045c3e5b7dc81df88e1188bf92be9008134"
   }
 ]
