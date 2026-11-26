@@ -2943,5 +2943,15 @@
     "path": "media/news/las-candelas-convocatoria-2027.webp",
     "bytes": 193398,
     "sha256": "6264992a3c690f1b9a619e85a521c1c5b7ed44cc4900a0643c33e46384d55c96"
+  },
+  {
+    "path": "media/news/michael-giles-dgm-archivo-2026.jpg",
+    "bytes": 66766,
+    "sha256": "244427953514c83c5cd6fee888b3c51a420346ee82ed336861a0c861630979dd"
+  },
+  {
+    "path": "media/news/andy-taylor-duran-archivo-2026.jpg",
+    "bytes": 60640,
+    "sha256": "71489cff9c448de925ba392f4d694a8697f1e61ebed0d3855c59718d5d130d6e"
   }
 ]
