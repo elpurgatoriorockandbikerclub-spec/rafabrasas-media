@@ -2933,5 +2933,15 @@
     "path": "media/news/harem-scarem-rise-wreckage-2027.jpg",
     "bytes": 61202,
     "sha256": "36ae5f6d2546d6a84cb11963789004b24f8f92386dd7d074eb7afd29bfba27ae"
+  },
+  {
+    "path": "media/news/heilung-madrid-2027.jpg",
+    "bytes": 172327,
+    "sha256": "dbfdd2d18a4b8d9883c34dcb42377de9c9a6a15bf4cc8dc9589666202ab40ba3"
+  },
+  {
+    "path": "media/news/las-candelas-convocatoria-2027.webp",
+    "bytes": 193398,
+    "sha256": "6264992a3c690f1b9a619e85a521c1c5b7ed44cc4900a0643c33e46384d55c96"
   }
 ]
