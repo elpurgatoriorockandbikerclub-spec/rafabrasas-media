@@ -2978,5 +2978,10 @@
     "path": "media/news/hellfest-2027-faith-no-more.jpg",
     "bytes": 63761,
     "sha256": "cf38966b1baac78d3a6deec309aa6746217194aa9157e91fbe184aa2d2302665"
+  },
+  {
+    "path": "media/barbacoa/lomo-mostaza-manzana-heavy-sueco-2026.webp",
+    "bytes": 450854,
+    "sha256": "065d0f5ca38ecc11d0868f107a7db045e6a82ce68355f8c5dcf26ddbf5edf548"
   }
 ]
