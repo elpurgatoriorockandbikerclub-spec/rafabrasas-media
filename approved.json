@@ -2963,5 +2963,20 @@
     "path": "media/news/evil-invaders-weaponized-chaos-2027.jpg",
     "bytes": 144954,
     "sha256": "161a098558dfd0b9457dadde739dd045c3e5b7dc81df88e1188bf92be9008134"
+  },
+  {
+    "path": "media/news/killer-clan-eat-the-world-2026/cover.jpg",
+    "bytes": 257897,
+    "sha256": "ee4f39bf1d015e4e75f881893e95c82d74e7892596cdd6d430893d4c608d2023"
+  },
+  {
+    "path": "media/news/within-temptation-espana-2027.jpg",
+    "bytes": 79576,
+    "sha256": "eeadcfad433aa0782c52b26113920129d8f3f5076ff445757566e2b63bd3a02b"
+  },
+  {
+    "path": "media/news/hellfest-2027-faith-no-more.jpg",
+    "bytes": 63761,
+    "sha256": "cf38966b1baac78d3a6deec309aa6746217194aa9157e91fbe184aa2d2302665"
   }
 ]
